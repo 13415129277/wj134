@@ -53,29 +53,7 @@
       }
     },
        
-      {
-      "key": "醉挽清风",
-      "name": "清风┃官源",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
-    },
-    {
-      "key": "小满万全",
-      "name": "小满┃官源",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
-    },
+    
     {
       "key": "qysp",
       "name": "阿森┃奇艺",
