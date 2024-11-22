@@ -31,7 +31,7 @@
    
     {
       "key": "qysp",
-      "name": "奇艺┃视频",
+      "name": "阿森┃奇艺",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "txsp",
-      "name": "腾讯┃视频",
+      "name": "阿森┃腾讯",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "yksp",
-      "name": "优酷┃视频",
+      "name": "阿森┃优酷",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "mgsp",
-      "name": "芒果┃视频",
+      "name": "阿森┃芒果",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "sgys",
-      "name": "搜狗┃视频",
+      "name": "阿森┃搜狗",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
