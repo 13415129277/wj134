@@ -52,17 +52,7 @@
         "danmu": true
       }
     },
-        {
-      "key": "贱贱",
-      "name": "荐片┃纯净",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
+       
       {
       "key": "醉挽清风",
       "name": "清风┃官源",
@@ -169,19 +159,7 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
     },
-      {
-      "key": "机器人弹幕",
-      "name": "采集┃有广",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+    
     {
       "key": "push_agent",
       "name": "推送┃链接",
