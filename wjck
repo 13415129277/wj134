@@ -1,0 +1,21 @@
+{
+  "storeHouse": [
+   
+    {
+      "sourceName": "💕拾光仓库💕",
+      "sourceUrl": "https://gitlab.com/xmbjm/ck/-/raw/main/ck.json"
+    },
+    {
+      "sourceName": "💕天微仓库💕",
+      "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+    },
+    {
+      "sourceName": "💕欧歌仓库💕",
+      "sourceUrl": "https://xn--dkw0c.y.nxog.top/nxog/ou1.php?b=欧歌"
+    },
+    {
+      "sourceName": "💕云星仓库💕",
+      "sourceUrl": "http://itvbox.cc/可视仓库/在线仓"
+    }
+  ]
+}
