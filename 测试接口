@@ -36,6 +36,7 @@
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
+
         {
       "key": "五五影视",
       "name": "五五┃app",
@@ -46,16 +47,8 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/五五影视.json"
     },
-    {
-      "key": "Kuaikan",
-      "name": "快看┃app",
-      "type": "3",
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Kuaikan",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
-    },
+
+    
     {
       "key": "柠檬",
       "name": "农民┃App",
@@ -77,18 +70,7 @@
       "ext": "https://www.wwgz.cn/"
     },
 
-  {
-      "key": "csp_JPYY",
-      "name": "金牌┃app",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
-      "api": "csp_Jpyy",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": ""
-    },
+  
 
     {
       "key": "文才弹幕",
@@ -104,24 +86,7 @@
       }
     },
 
-    {
-      "key": "雨滴",
-      "name": "雨滴┃app",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
-    },
-    {
-      "key": "优质",
-      "name": "优质┃app",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
-    },
+ 
    {
       "key": "机器人弹幕",
       "name": "采集┃app",
