@@ -30,10 +30,10 @@
     
   {
             "key": "qqys",
-            "name": "🐧腾腾┃影视",
+            "name": "腾腾┃App",
             "type": 3,
             "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-            "ext": "http://47.99.102.252/js/tx1.js"
+            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
         },
  
    
@@ -44,7 +44,7 @@
 
     {
       "key": "guoguo",
-      "name": "🌞果果┃解析",
+      "name": "果果┃App",
       "type": 3,
       "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
@@ -55,13 +55,7 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
   
-    {
-      "key": "huohuo",
-      "name": "💥火火┃1080P",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_SaoHuo"
-    },
+ 
    
     
     {
