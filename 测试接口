@@ -80,7 +80,7 @@
     
     {
       "key": "push_agent",
-      "name": 味精┃测试",
+      "name": "味精┃测试",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
