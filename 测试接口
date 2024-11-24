@@ -41,6 +41,16 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
 
+{
+      "key": "五五影视",
+      "name": "五五┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/五五影视.json"
+    },
 
     {
       "key": "文采",
