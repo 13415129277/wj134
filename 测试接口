@@ -49,7 +49,16 @@
         },
     
 
- 
+ {
+      "key": "csp_Wwys",
+      "name": "汪汪┃App",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "playerType": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
    
         {
       "key": "文采",
