@@ -48,16 +48,22 @@
             "filterable": 1
         },
     
-  {
-            "key": "qqys",
-            "name": "腾腾┃App",
-            "type": 3,
-            "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
-        },
+
  
    
-
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "腾腾┃App",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
+    },
 
 
 
