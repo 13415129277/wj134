@@ -36,7 +36,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+            {
+      "key": "huohuo",
+      "name": "火火┃App",
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {
             "key": "快看影视",
             "name": "快看┃App",
