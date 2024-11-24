@@ -15,7 +15,8 @@
     }
   ],
   "sites": [
-      {
+    
+   {
       "key": "豆瓣",
       "name": "味精┃精选",
       "type": 3,
@@ -27,37 +28,78 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
+    {
+      "key": "热播",
+      "name": "热播┃影视",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
 
 
-           {
-            "key": "热播影视",
-            "name": "热播┃App",
-            "type": 3,
-            "api": "csp_AppRB",
-             "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
-
-
-
-
-
-
-  
-        
+    {
+      "key": "文采",
+      "name": "文采┃影视",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     
-
-
     
-
- 
-   
-      
-     
+{
+      "key": "csp_Wwys",
+      "name": "汪汪┃影视",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "playerType": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
     
-   
+    
+    {
+      "key": "huohuo",
+      "name": "火火┃影视",
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
+{
+      "key": "柠檬",
+      "name": "柠檬┃影视",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    
+    
+    {
+      "key": "Kuaikan",
+      "name": "快看┃影视",
+      "type": "3",
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Kuaikan",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    
     
     {
       "key": "push_agent",
@@ -82,7 +124,7 @@
     {
       "name": "4K解析",
       "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url=",
+      "url": "",
       "ext": {
         "flag": [
           "qq",
@@ -196,18 +238,4 @@
       }
     }
   ],
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 2
-    },
-    {
-      "name": "直播2",
-      "ua": "",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live"
-    }
-  ]
-}
+ "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":[]}
