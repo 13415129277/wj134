@@ -35,7 +35,13 @@
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     
-    
+    {
+      "key": "qqys",
+      "name": "腾腾┃App",
+      "type": 3,
+      "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
+      "ext": "http://47.99.102.252/js/tx1.js"
+    },
     {
       "key": "快看",
       "name": "快看┃直连",
