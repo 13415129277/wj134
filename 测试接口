@@ -205,15 +205,7 @@
       "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
     },
 
-{
-      "key": "酷狗",
-      "name": "酷狗┃音乐",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/custom_spider.jar;md5;81bf9de5c314cbb473a1575144c44f45",
-      "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0
-    },
+
 
     {
       "key": "push_agent",
