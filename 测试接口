@@ -16,7 +16,18 @@
   ],
   "sites": [
     
-    
+    {
+      "key": "豆瓣",
+      "name": "味精┃精选",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
+    },
+
     {
       "key": "热播",
       "name": "热播┃App",
@@ -42,6 +53,7 @@
       "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
     },
+
     {
       "key": "快看",
       "name": "快看┃直连",
@@ -66,7 +78,7 @@
     
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "味精推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
