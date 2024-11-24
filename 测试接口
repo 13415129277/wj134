@@ -51,34 +51,16 @@
 
  
    
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾腾┃App",
+        {
+      "key": "文采",
+      "name": "文采┃App",
       "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
+      "api": "csp_Jpys",
       "playerType": 2,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
-    },
-
-
-
-
-    {
-      "key": "guoguo",
-      "name": "果果┃App",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+      "changeable": 1
     },
   
  
