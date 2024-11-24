@@ -78,47 +78,13 @@
     }
   ],
   "parses": [
-    {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "4K解析",
-      "type": 1,
-      "url": "",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "反弹",
+   
+   
+    {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+
+ {
+       "name": "反弹",
       "type": 1,
       "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
       "ext": {
@@ -146,65 +112,8 @@
         }
       }
     },
-    {
-      "name": "1080解析1",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "1080解析",
-      "type": 1,
-      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    }
-  ],
+
+{"name":"测试1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"测试2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
   "lives": [
     {
       "name": "直播",
