@@ -46,16 +46,7 @@
 
 
   
-        {
-      "key": "柠檬",
-      "name": "柠檬┃App",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-    },
-
+        
     
 
 
@@ -63,18 +54,7 @@
 
  
    
-        {
-      "key": "文采",
-      "name": "文采┃App",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-  
+      
      
     
    
