@@ -3,79 +3,7 @@
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "http://www.mucpan.cc/%E5%B0%8F%E7%B1%B3/mpansou.php",
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "🌈豆瓣┃防失联：QQ群：665981772   接口被屏蔽 加群防止失联 ",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "配置",
-      "name": "⚙️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 0,
-      "api": "csp_Config"
-    },
-    {
-      "key": "csp_wanou",
-      "name": "🧸玩偶┃4K4K",
-      "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": {
-        "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
-      }
-    },
-    {
-      "key": "csp_zhizhen",
-      "name": "🌹米QK┃4K4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://mucpan.cc",
-          "http://mihdr.top"
-        ]
-      }
-    },
-    {
-      "key": "csp_xiaomi",
-      "name": "🌹米UC┃4K4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "changeable": 0,
-      "ext": "http://www.mucpan.cc"
-    },
-    {
-      "key": "米搜",
-      "name": "🌾米搜┃4K4K",
-      "type": 3,
-      "api": "csp_MiSou",
-      "changeable": 0
-    },
-    {
-      "key": "88看球",
-      "name": "🏀看球┃直播",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
-    },
+   
     {
       "key": "瓜子",
       "name": "🍉瓜子┃APP",
@@ -191,22 +119,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
-    {
-      "key": "csp_NanGua",
-      "name": "🎃南瓜┃APP",
-      "type": 3,
-      "changeable": 1,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "🎨动漫┃1080P",
-      "type": 3,
-      "api": "csp_Dm84",
-      "playerType": 2
-    },
+  
     {
       "key": "huohuo",
       "name": "💥火火┃1080P",
@@ -214,28 +127,7 @@
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
-    {
-      "key": "Bili",
-      "name": "🎒哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬荐片┃磁力",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
+   
     {
       "key": "csp_Wwys",
       "name": "🐶汪汪┃1080P",
@@ -260,7 +152,7 @@
     },
     {
       "key": "push_agent",
-      "name": "杜绝未成年测试本项目｜请于24小时内删除测试内容｜官网mpanso.com",
+      "name": 味精┃测试",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
