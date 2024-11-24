@@ -36,7 +36,16 @@
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
-    
+        {
+      "key": "五五影视",
+      "name": "五五┃app",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/五五影视.json"
+    },
     {
       "key": "柠檬",
       "name": "农民┃App",
