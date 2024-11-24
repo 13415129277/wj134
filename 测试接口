@@ -47,6 +47,16 @@
       "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/五五影视.json"
     },
     {
+      "key": "Kuaikan",
+      "name": "快看┃app",
+      "type": "3",
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
+      "api": "csp_Kuaikan",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    {
       "key": "柠檬",
       "name": "农民┃App",
       "type": 3,
