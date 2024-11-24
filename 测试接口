@@ -30,7 +30,7 @@
 
     {
       "key": "文才弹幕",
-      "name": "摸鱼┃文采",
+      "name": "文采┃app",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -41,17 +41,29 @@
         "danmu": true
       }
     },
-
+   {
+      "key": "机器人弹幕",
+      "name": "采集┃app",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
 {
       "key": "qqys",
-      "name": "味精┃腾腾",
+      "name": "腾腾┃app",
       "type": 3,
       "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
     },
     {
       "key": "push_agent",
-      "name": "味精:线路仅供参考",
+      "name": "味精:本软件仅供测试，不可商用",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
