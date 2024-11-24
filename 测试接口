@@ -36,6 +36,25 @@
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
+      "key": "柠檬",
+      "name": "农民┃App",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "360_spider",
+      "name": "独家┃官源",
+      "api": "csp_SP360",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "ext": ""
+    },
+    {
       "key": "文才弹幕",
       "name": "文采┃app",
       "type": 3,
@@ -61,6 +80,7 @@
         "danmu": true
       }
     },
+
 {
       "key": "qqys",
       "name": "腾腾┃app",
@@ -68,6 +88,7 @@
       "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
     },
+
     {
       "key": "push_agent",
       "name": "味精:本软件仅供测试，不可商用",
