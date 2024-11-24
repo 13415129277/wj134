@@ -26,7 +26,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
-    },
+    },   
+
     {
       "key": "热播",
       "name": "热播┃App",
@@ -35,6 +36,7 @@
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
+
     {
       "key": "柠檬",
       "name": "农民┃App",
@@ -43,6 +45,7 @@
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
+
     {
       "key": "360_spider",
       "name": "独家┃官源",
@@ -54,6 +57,7 @@
       "playerType": 2,
       "ext": ""
     },
+
     {
       "key": "文才弹幕",
       "name": "文采┃app",
@@ -67,6 +71,7 @@
         "danmu": true
       }
     },
+
    {
       "key": "机器人弹幕",
       "name": "采集┃app",
@@ -80,6 +85,9 @@
         "danmu": true
       }
     },
+
+
+
 
 {
       "key": "qqys",
