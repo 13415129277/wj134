@@ -16,18 +16,7 @@
   ],
   "sites": [
     
-   {
-      "key": "豆瓣",
-      "name": "味精┃精选",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
-    },   
-
+    
     {
       "key": "热播",
       "name": "热播┃App",
@@ -36,18 +25,6 @@
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
-
-        {
-      "key": "五五影视",
-      "name": "五五┃app",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/json/五五影视.json"
-    },
-
     
     {
       "key": "柠檬",
@@ -58,112 +35,55 @@
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     
-
-    {
-      "key": "csp_Wwys",
-      "name": "汪汪┃app",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
-      "playerType": 1,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
-
-  
-
-    {
-      "key": "文才弹幕",
-      "name": "文采┃app",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-
- 
-   {
-      "key": "机器人弹幕",
-      "name": "采集┃app",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-
     
-
-
-{
-      "key": "qqys",
-      "name": "腾腾┃app",
+    {
+      "key": "快看",
+      "name": "快看┃直连",
       "type": 3,
-      "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-
-
-
+    {
+      "key": "360_spider",
+      "name": "360┃解析",
+      "api": "csp_SP360",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "ext": ""
+    },
+    
     {
       "key": "push_agent",
-      "name": "味精:本软件仅供测试",
+      "name": "推送",
       "type": 3,
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "6666666666666666"
     }
   ],
   "parses": [
-   
-   
-            {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "独家解析",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
- {
-       "name": "反弹",
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "测试1",
       "type": 1,
-      "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -189,9 +109,55 @@
         }
       }
     },
-
-{"name":"测试1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"测试2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
-    "ijk": [
+    {
+      "name": "测试2",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78"
+  ],
+  "ijk": [
     {
       "group": "软解码",
       "options": [
