@@ -41,18 +41,7 @@
         "danmu": true
       }
     },
-{
-      "key": "xiongmao2",
-      "name": "小米┃熊猫",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js"
-    },
+
 {
       "key": "qqys",
       "name": "味精┃腾腾",
