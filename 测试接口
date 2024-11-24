@@ -28,33 +28,20 @@
     },
    
     
-  
+  {
+            "key": "qqys",
+            "name": "🐧腾腾┃影视",
+            "type": 3,
+            "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
+            "ext": "http://47.99.102.252/js/tx1.js"
+        },
  
-    {
-      "key": "csp_JPYY",
-      "name": "🥇文采┃无广",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
-  
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-    },
+   
+
+
+
+
+
     {
       "key": "guoguo",
       "name": "🌞果果┃解析",
