@@ -3,7 +3,17 @@
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "http://www.mucpan.cc/%E5%B0%8F%E7%B1%B3/mpansou.php",
   "sites": [
-   
+      {
+      "key": "豆瓣",
+      "name": "味精┃精选",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
+    },
     {
       "key": "瓜子",
       "name": "🍉瓜子┃APP",
@@ -15,15 +25,7 @@
       "order_num": 0,
       "changeable": 0
     },
-    {
-      "key": "天天",
-      "name": "☁️天天┃1080P",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
-    },
+    
     {
       "key": "🌟客星",
       "name": "🌟客星┃1080P",
