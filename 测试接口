@@ -54,6 +54,20 @@
     },
     
     
+    {
+      "key": "csp_JPYY",
+      "name": "🌾金牌┃xm1080P",
+      "type": 3,
+      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "api": "csp_Jpyy",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": ""
+    },
+
+
 
 {
       "key": "csp_Wwys",
