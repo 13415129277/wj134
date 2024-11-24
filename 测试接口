@@ -28,6 +28,8 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
+
+
     {
       "key": "热播",
       "name": "热播┃App",
@@ -54,27 +56,8 @@
       "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
     },
 
-    {
-      "key": "快看",
-      "name": "快看┃直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "360_spider",
-      "name": "360┃解析",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "playerType": 2,
-      "ext": ""
-    },
+    
+    
     
     {
       "key": "push_agent",
