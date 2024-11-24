@@ -63,7 +63,7 @@
     },
     {
       "key": "雨滴",
-      "name": "🥝雨滴┃qjApp",
+      "name": "雨滴┃app",
       "type": 3,
       "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
       "api": "csp_Xdai",
@@ -72,7 +72,7 @@
     },
     {
       "key": "优质",
-      "name": "🥝优质┃qjApp",
+      "name": "优质┃app",
       "type": 3,
       "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
       "api": "csp_Xdai",
