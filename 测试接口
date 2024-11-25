@@ -50,9 +50,19 @@
         },
 
 
-    {
+    
+ {
+            "key": "qqys",
+            "name": "腾腾┃官源",
+            "type": 3,
+            "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
+        },
+ 
+
+{
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾腾┃官源",
+      "name": "腾腾┃备用",
       "type": 3,
       "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
@@ -63,14 +73,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
     },
- {
-            "key": "qqys",
-            "name": "腾腾┃影视",
-            "type": 3,
-            "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
-        },
- 
+
 {
             "key": "农民影视",
             "name": "农民┃影视",
