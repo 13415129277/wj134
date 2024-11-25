@@ -168,7 +168,7 @@
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "🚀防失联公众号【味精影院】";
+        VOD.vod_play_from = "味精影院";
         VOD.vod_play_url = d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#");
