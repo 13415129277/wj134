@@ -42,11 +42,11 @@
 
                  {
             "key": "mgys",
-           "name": "果果┃解析",
+           "name": "果果┃官源",
             "type": 3,
             "playerType": "2",
             "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-            "ext": "http://47.99.102.252/js/mguo.js"
+            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/mguo.js"
         },
 
 
