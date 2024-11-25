@@ -274,15 +274,50 @@
       }
     },
 
-    {
-      "key": "星芽短剧",
-      "name": "独家┃短剧",
+      {
+      "key": "csp_XYQHiker_河马短剧",
+      "name": "独家┃短剧1",
       "type": 3,
-      "api": "csp_AppXY",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "api": "csp_XYQHiker",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ttkx.cc:55/lib/json/河马短剧.json"
+    },
+
+    {
+      "key": "js_星芽短剧",
+      "name": "独家┃短剧2",
+      "type": 3,
+      "api": "http://ttkx.cc:55/lib/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ttkx.cc:55/lib/js/星芽短剧.js"
+    },
+
+    {
+      "key": "js_蓝莓短剧",
+      "name": "独家┃短剧3",
+      "type": 3,
+      "api": "http://ttkx.cc:55/lib/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ttkx.cc:55/lib/js/蓝莓短剧.js"
+    },
+
+
+{
+      "key": "你好帅",
+      "name": "🎦独家┃短剧4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
+        "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
+        "播放数组": "<div class=\"sort-item\"&&</div>"
+      }
     },
 
 
