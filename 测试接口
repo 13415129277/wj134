@@ -63,7 +63,12 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
     },
 
-
+{"key": "ssys","name": "三三┃视频","type": 3,"api": "csp_SP33"       ,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=qysp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
+    {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=txsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
+    {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=yksp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
+    {"key": "mgsp","name": "芒果┃视频","type": 3,"api": "MJS_mgsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mgsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
+    {"key": "sgys","name": "搜狗┃视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=sgsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
 
         {
             "key": "巨人弹幕",
