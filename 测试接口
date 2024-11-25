@@ -74,6 +74,20 @@
       "ext": "http://47.99.102.252/js/yingtan.js"
     },
 
+
+    {
+      "key": "布蕾",
+      "name": "布蕾┃影视",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://47.99.102.252/drpy_js/bulei.js"
+    },
+
 {
       "key": "小熊弹幕",
       "name": "小熊┃影视",
