@@ -74,6 +74,13 @@
       "ext": "http://47.99.102.252/js/yingtan.js"
     },
 
+{
+      "key": "小熊弹幕",
+      "name": "小熊┃影视",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
+    },
     {
       "key": "农民影视",
       "name": "农民┃影视",
@@ -84,6 +91,39 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
+
+    {
+      "key": "php_heimuer",
+      "name": "木耳┃影视",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+
+
+    {
+      "key": "人人影视",
+      "name": "人人┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "公众号【味精影院】",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+"分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
+
+
+
     {
       "key": "文采",
       "name": "文采┃影视",
