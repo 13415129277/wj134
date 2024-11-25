@@ -430,7 +430,7 @@
         },
         {"name": "线路5" ,"type": 0,"url": "https://bd.jx.cn/?url="},
     {"name": "线路6" ,"type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
-    {"name": "线路7" ,"type": 0,"url": "https://player.mrgaocloud.com/player/?url="},
+    
 {"name":"线路8","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"线路9","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
   "ijk": [
     {
