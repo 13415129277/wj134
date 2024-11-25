@@ -62,6 +62,18 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
     },
+
+    {
+      "key": "探探",
+      "name": "影探┃App",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://47.99.102.252/js/yingtan.js"
+    },
+
     {
       "key": "农民影视",
       "name": "农民┃影视",
