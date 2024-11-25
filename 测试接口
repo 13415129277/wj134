@@ -149,7 +149,7 @@
     },
 
 
-  
+
 
 
     {
@@ -273,6 +273,22 @@
         "跳转播放链接": "url\"*\"&&\""
       }
     },
+
+    {
+      "key": "星芽短剧",
+      "name": "独家┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+
+
+
+
     {
       "key": "push_agent",
       "name": "味精┃测试",
