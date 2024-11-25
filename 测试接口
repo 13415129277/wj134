@@ -40,15 +40,14 @@
        "ext":"caHR0cDovL3YucmJvdHYuY24="
        },
 
-        {
+                 {
             "key": "mgys",
-            "name": "果果┃影视",
+           "name": "果果┃解析",
             "type": 3,
             "playerType": "2",
-            "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E6%9E%9C%E6%9E%9C"
+            "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+            "ext": "http://47.99.102.252/js/mguo.js"
         },
-
 
 
     {
