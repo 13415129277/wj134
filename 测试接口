@@ -36,13 +36,13 @@
 
 
 
-            {
-      "key": "ceslllk",
+                {
+      "key": "小虎斑弹幕",
       "name": "味精┃专线",
       "type": 3,
-      "api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "ext":"http://43.242.202.173:6688/tvbox/js/?key=104847347&id=弹幕"
-       },
+      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
+      "ext": "https://4622.kstore.space/xs/JS/小虎斑弹幕.js"
+    },
   {
 		"key": "HG影视",
 		"name": "味精┃备用",
