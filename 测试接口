@@ -34,11 +34,48 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
-
+    {
+      "key": "海豚视频",
+      "name": "味精┃专线1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片地区": "公众号:味精影院",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://www.htun.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#少儿$6"
+      }
+    },
+    {
+      "key": "豌豆影院",
+      "name": "味精┃专线2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "公众号:味精影院",
+        "影片年代": "年份: &&</p>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型: &&</p>",
+        "主演": "主演: &&</p>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+        "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
+      }
+    },
 
   {
 		"key": "HG影视",
-		"name": "味精┃专线",
+		"name": "味精┃备用",
 		"type": 1,
 		"api": "https://hong.hgyx.vip/api.php/provide/vod/",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
