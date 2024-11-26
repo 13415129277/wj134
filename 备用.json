@@ -243,22 +243,11 @@
       "ext": "https://vidhub1.cc"
     },
 
-    {
-      "key": "追剧影视",
-      "name": "会员专享①③",
-      "type": 3,
-      "api": "csp_AppZJ",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://z.kzjtv.com/"
-    },
-
+ 
 
     {
       "key": "骚火影视",
-      "name": "会员专享①④",
+      "name": "会员专享①③",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
       "type": 3,
       "api": "csp_SaoHuo",
