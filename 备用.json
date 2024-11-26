@@ -11,10 +11,72 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    
+    {
+      "key": "三六零弹幕",
+      "name": "独家┃官源①",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+{
+      "key": "sgys",
+      "name": "独家┃官源②",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+    },
+    {
+      "key": "qysp",
+      "name": "备用┃官源①",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
+    },
+    {
+      "key": "txsp",
+      "name": "备用┃官源②",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
+    },
+    {
+      "key": "yksp",
+      "name": "备用┃官源③",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
+    },
+{
+      "key": "mgsp",
+      "name": "备用┃官源④",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
+    },
     {
       "key": "农民影视",
-      "name": "农民┃影视",
+      "name": "会员专享①",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -24,7 +86,7 @@
     },
     {
       "key": "JP",
-      "name": "金牌┃影视",
+      "name": "会员专享②",
       "type": 3,
       "api": "csp_WebJP",
       "searchable": 1,
@@ -36,7 +98,7 @@
     
     {
       "key": "文采",
-      "name": "文采┃影视",
+      "name": "会员专享③",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/aHoxLmphcg==?isDownload=true",
@@ -48,7 +110,7 @@
 
     {
       "key": "csp_Wwys",
-      "name": "汪汪┃影视",
+      "name": "会员专享④",
       "type": 3,
       "playerType": 1,
       "changeable": 0,
@@ -59,7 +121,7 @@
 
     {
       "key": "热播影视",
-      "name": "热播┃影视",
+      "name": "会员专享⑤",
       "type": 3,
       "api": "csp_AppRB",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -69,7 +131,7 @@
     },
     {
       "key": "快看影视",
-      "name": "快看┃影视",
+      "name": "会员专享⑥",
       "type": 3,
       "api": "csp_Kuaikan",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -80,7 +142,7 @@
 
     {
       "key": "csp_河马",
-      "name": "河马┃影视",
+      "name": "会员专享⑦",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -96,7 +158,7 @@
 
     {
       "key": "黑狐",
-      "name": "黑狐┃影视",
+      "name": "会员专享⑧",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -137,21 +199,12 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
-    {
-      "key": "php_heimuer",
-      "name": "木耳┃影视",
-      "type": 4,
-      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
+
    
 
     {
       "key": "人人影视",
-      "name": "人人┃影视",
+      "name": "会员专享⑨",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -169,7 +222,7 @@
 
     {
       "key": "天天影视",
-      "name": "天天┃影视",
+      "name": "会员专享⑩",
       "type": 3,
       "api": "csp_AppTT",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -180,7 +233,7 @@
 
     {
       "key": "视频库",
-      "name": "视库┃影视",
+      "name": "会员专享①①",
       "type": 3,
       "api": "csp_WebVidHub",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -192,7 +245,7 @@
 
     {
       "key": "追剧影视",
-      "name": "追剧┃影视",
+      "name": "会员专享①③",
       "type": 3,
       "api": "csp_AppZJ",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -205,7 +258,7 @@
 
     {
       "key": "骚火影视",
-      "name": "骚火┃影视",
+      "name": "会员专享①④",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
       "type": 3,
       "api": "csp_SaoHuo",
@@ -263,6 +316,22 @@
         }
       }
     },
+    {
+      "name": "MeowTV1",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "MeowTV2",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "MeowTV3",
+      "type": 0,
+      "url": "https://player.mrgaocloud.com/player/?url="
+    },
+  
     {
       "name": "巧技二",
       "type": 1,
