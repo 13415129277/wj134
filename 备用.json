@@ -678,7 +678,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://47.99.102.252/live.txt",
+      "url": "http://39.101.135.137:8081/le.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
