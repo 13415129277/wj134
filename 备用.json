@@ -11,6 +11,17 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+{
+      "key": "nfys",
+      "name": "软件┃采集",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
     {
       "key": "三六零弹幕",
       "name": "独家┃官源①",
