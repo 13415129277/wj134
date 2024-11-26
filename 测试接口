@@ -36,16 +36,9 @@
 
 
 
-                {
-      "key": "小虎斑弹幕",
-      "name": "味精┃专线",
-      "type": 3,
-      "api": "https://4622.kstore.space/xs/JS/drpy2.min.js",
-      "ext": "https://4622.kstore.space/xs/JS/小虎斑弹幕.js"
-    },
   {
 		"key": "HG影视",
-		"name": "味精┃备用",
+		"name": "味精┃专线",
 		"type": 1,
 		"api": "https://hong.hgyx.vip/api.php/provide/vod/",
 		"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
