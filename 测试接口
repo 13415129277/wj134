@@ -34,7 +34,17 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
-  
+  {
+  "key": "瓜子",
+  "name": "味精┃专线",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "playerType": "1",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/js/瓜子.js"
+},
 
   {
 		"key": "HG影视",
