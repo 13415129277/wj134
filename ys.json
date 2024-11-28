@@ -69,17 +69,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "JP",
-      "name": "味精┃秒播②",
-      "type": 3,
-      "api": "csp_WebJP",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
-    },
-
+    
  
  
     {
