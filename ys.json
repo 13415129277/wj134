@@ -3,7 +3,8 @@
   "wallpaper": "https://api.likepoems.com/img/bing",
   "logo": "https://d.kstore.dev/download/6474/tvbox/img/v0.png",
   "sites": [
-    {
+   
+ {
       "key": "csp_Douban",
       "name": "🚀关注公众号|味精影院|不迷路",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -11,6 +12,7 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+
       {
       "key": "三六零弹幕",
       "name": "独家┃官源①",
@@ -425,32 +427,7 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
       ]
     },
-    {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "请访问",
-        "example",
-        "社 區",
-        "x u u",
-        "直 播",
-        "更 新",
-        "社 区",
-        "有趣",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
-    },
+  
     {
       "name": "火山嗅探",
       "hosts": [
