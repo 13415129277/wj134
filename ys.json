@@ -18,13 +18,14 @@
   
     {
       "key": "csp_Douban",
-      "name": "正在测试中",
+      "name": "味精┃无广┃专线",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     
+
     {
       "key": "三六零弹幕",
       "name": "独家┃官源①",
