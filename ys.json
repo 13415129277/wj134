@@ -171,20 +171,20 @@
     }
   ],
   "parses": [
-    {
-      "name": "解析聚合",
+        {
+      "name": "聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
+      "name": "味精官解①",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "味精官解①",
+      "name": "味精官解②",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -211,7 +211,23 @@
       }
     },
     {
-      "name": "味精官解②",
+      "name": "味精官解③",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "味精官解④",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "味精官源⑤",
+      "type": 0,
+      "url": "https://player.mrgaocloud.com/player/?url="
+    },
+
+    {
+      "name": "味精官解⑥",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
