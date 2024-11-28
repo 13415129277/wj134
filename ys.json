@@ -39,19 +39,10 @@
         "danmu": true
       }
     },
-{
-      "key": "sgys",
-      "name": "独家┃官源②",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
-    },
+
     {
       "key": "猫咪",
-      "name": "独家┃官源③",
+      "name": "独家┃官源②",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
