@@ -26,6 +26,10 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
       "name": "味精：全采集专线"
     },
+{
+      "url": "https://zhangqun66.com/zq/api.json",
+      "name": "味精：采集克隆专线"
+    },
 
 {
       "url": "https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云教育.json",
