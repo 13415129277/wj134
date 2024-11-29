@@ -128,7 +128,56 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
     },
-
+ {
+      "key": "js_企鹅",
+      "name": "🐧企鹅|官源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qtv.js"
+    },
+    {
+      "key": "js_奇异",
+      "name": "🥝奇异|官源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/qzys.js"
+    },
+    {
+      "key": "js_芒果",
+      "name": "🥭芒芒|官源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/baimang.js"
+    },
+    {
+      "key": "js_优酷",
+      "name": "👑油库|官源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
+    },
+    {
+      "key": "js_菜狗",
+      "name": "🐕️菜狗|官源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/caigou.js"
+    },
     {
       "key": "柠檬",
       "name": "独家┃秒播①",
