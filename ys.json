@@ -16,16 +16,18 @@
   ],
   "sites": [
   
-    {
-      "key": "csp_Douban",
+   
+   {
+      "key": "豆瓣",
       "name": "味精┃无广┃专线",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
-    
-
     {
       "key": "三六零弹幕",
       "name": "独家┃官源①",
