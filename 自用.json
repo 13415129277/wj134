@@ -31,7 +31,10 @@
       "url": "https://zhangqun66.com/zq/api.json",
       "name": "味精：采集克隆专线"
     },
-
+ { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/短剧频道/api.json", 
+            "name": "味精：爱看短剧" 
+        },
 {
       "url": "https://gitee.com/ltby1/blue-sky-education/raw/master/蓝天白云教育.json",
       "name": "味精：白云教育专线"
