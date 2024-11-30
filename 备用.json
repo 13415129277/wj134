@@ -59,17 +59,13 @@
     },
     
     {
-      "key": "csp_JPYY",
+      "key": "huohuo",
       "name": "1080P站-E",
       "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
+      "changeable": 0,
+      "api": "csp_SaoHuo"
     },
-   
+ 
     {
       "key": "csp_SuBaiBai",
       "name": "1080P站-F",
@@ -88,24 +84,8 @@
     },
   
   
-    {
-      "key": "huohuo",
-      "name": "1080P站-H",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_SaoHuo"
-    },
+   
  
-    {
-      "key": "csp_Wwys",
-      "name": "1080P站-I",
-      "type": 3,
-      "playerType": 2,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
-  
     {
       "key": "push_agent",
       "name": "仅供测试",
