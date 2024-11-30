@@ -24,6 +24,19 @@
       "filterable": 1,
       "ext": "http://47.99.102.252/js/yingtan.js"
     },
+        {
+      "key": "南瓜弹幕",
+      "name": "🎃南瓜┃影视",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
      {
       "key": "SeedHub",
       "name": "🧲SeedHub｜磁力",
@@ -196,10 +209,83 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
     },
-  
+    {
+      "key": "星芽短剧",
+      "name": "独家┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+     {
+      "key": "少儿教育",
+      "name": "📚少儿┃学识┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
+      }
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
+      }
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
+      }
+    },
     {
       "key": "push_agent",
-      "name": "味精推送",
+      "name": "味精┃推送",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
