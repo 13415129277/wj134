@@ -142,18 +142,7 @@
       "playerType": 2,
       "ext": "http://www.czzyvideo.com"
     },
-    {
-      "key": "csp_饭团",
-      "name": "🍙饭团┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Fantuan",
-      "playerType": 2,
-      "filterable": 1,
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://fantuan.vip/"
-    },
+   
   
     {
       "key": "huohuo",
