@@ -5,7 +5,7 @@
   "sites": [
    {
       "key": "豆瓣",
-      "name": "味精┃备用",
+      "name": "味精┃推荐",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -16,45 +16,27 @@
     },
 
    
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子┃1080P",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },
+  
     {
       "key": "天天",
-      "name": "☁️天天┃1080P",
+      "name": "1080P站-A",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
-    {
-      "key": "🌟客星",
-      "name": "🌟客星┃1080P",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
-    },
+
     {
       "key": "zhaixing",
-      "name": "✨摘星┃1080P",
+      "name": "1080P站-B",
       "type": 3,
       "api": "csp_AppZX",
       "playerType": 2
     },
     {
       "key": "熊猫",
-      "name": "🐈熊猫┃1080P",
+      "name": "1080P站-C",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -63,7 +45,7 @@
     },
     {
       "key": "csp_zhufan",
-      "name": "🚗追饭┃1080P",
+      "name": "1080P站-D",
       "searchable": 1,
       "quickSearch": 1,
       "type": 3,
@@ -75,20 +57,10 @@
         "version": "1.1.0"
       }
     },
-    {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
-    },
+    
     {
       "key": "csp_JPYY",
-      "name": "🥇文采┃1080P",
+      "name": "1080P站-E",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -100,7 +72,7 @@
    
     {
       "key": "csp_SuBaiBai",
-      "name": "☁️白白┃1080P",
+      "name": "1080P站-F",
       "type": 3,
       "api": "csp_SuBaiBai",
       "playerType": 2,
@@ -108,43 +80,25 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "🏭厂长┃1080P",
+      "name": "1080P站-G",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
       "ext": "http://www.czzyvideo.com"
     },
-    {
-      "key": "csp_饭团",
-      "name": "🍙饭团┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Fantuan",
-      "playerType": 2,
-      "filterable": 1,
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://fantuan.vip/"
-    },
+  
   
     {
       "key": "huohuo",
-      "name": "💥火火┃1080P",
+      "name": "1080P站-H",
       "type": 3,
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
-    {
-      "key": "荐片",
-      "name": "🍭荐片┃磁力",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
+ 
     {
       "key": "csp_Wwys",
-      "name": "🐶汪汪┃1080P",
+      "name": "1080P站-I",
       "type": 3,
       "playerType": 2,
       "changeable": 0,
