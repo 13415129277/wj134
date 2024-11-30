@@ -96,6 +96,25 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        {
+      "key": "豌豆影院",
+      "name": "豌豆┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "味精制作",
+        "影片年代": "年份: &&</p>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型: &&</p>",
+        "主演": "主演: &&</p>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+        "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
+      }
+    },
       {
       "key": "探探",
       "name": "影探┃影视",
