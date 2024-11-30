@@ -32,6 +32,66 @@
       "type": 3,
       "api": "csp_Dygang"
     },
+     {
+      "key": "SeedHub",
+      "name": "🧲SeedHub｜磁力",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美剧迷",
+      "name": "🧲美剧迷迷｜磁力",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "迅雷吧",
+      "name": "🧲迅雷吧吧｜磁力",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Mp4电影",
+      "name": "🧲Mp4电影｜磁力",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷吧电影",
+      "name": "🧲酷吧电影｜磁力",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美剧天堂",
+      "name": "🧲美剧天堂｜磁力",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
       "key": "荐片弹幕",
       "name": "荐片┃影视",
