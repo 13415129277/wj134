@@ -41,6 +41,15 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
     },
+       {
+      "key": "熊猫",
+      "name": "熊猫┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cDovLzE1NC4yMjEuMTcuMTI3OjgxODh8YWU3MTU4ODgyN2EzODAzNnxhZTcxNTg4ODI3YTM4MDM2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+    },
    {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
