@@ -19,7 +19,7 @@
    
    {
       "key": "豆瓣",
-      "name": "味精┃4K",
+      "name": "味精┃聚合",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -30,7 +30,7 @@
     },
     {
       "key": "三六零弹幕",
-      "name": "独家┃官源①",
+      "name": "味精┃4K1",
       "type": 3,
       "api": "csp_Sp360",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -44,7 +44,7 @@
 
     {
       "key": "猫咪",
-      "name": "独家┃官源②",
+      "name": "味精┃4K2",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -78,21 +78,19 @@
       ]
     },
     {
-      "key": "360_spider",
-      "name": "独家┃官源③",
-      "api": "csp_SP360",
+      "key": "txsp",
+      "name": "味精┃4K3",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
-      "playerType": 2,
-      "ext": ""
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
     },
-   
 
     {
       "key": "js_优酷",
-      "name": "👑油库|官源",
+      "name": "味精┃4K4",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
       "searchable": 1,
@@ -100,20 +98,10 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
     },
-    {
-      "key": "js_菜狗",
-      "name": "🐕️菜狗|官源",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/caigou.js"
-    },
-    
+ 
     {
       "key": "push_agent",
-      "name": "味精┃4K测试",
+      "name": "味精┃测试",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -128,11 +116,10 @@
       "type": 3,
       "url": "Demo"
     },
-   
-    {
-      "name": "味精官解⑥",
+   {
+      "name": "味精4K",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "url": "https://jx.xiaofengtv.com/jx.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -148,15 +135,12 @@
           "乐视",
           "mgtv",
           "芒果",
-          "tnmb",
-          "seven",
+          "rx",
+          "ltnb",
           "bilibili",
           "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "xigua"
+        ]
       }
     }
   ],
