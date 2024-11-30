@@ -68,21 +68,8 @@
       "ext": " http:/122.228.85.237:2963/api.php/app/"
     },
 
-    {
-      "key": "樱花动漫",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
-            "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
-        "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"
-      }
-    },
+    
+    
       {
       "key": "三六零弹幕",
       "name": "独家┃官源①",
@@ -110,26 +97,7 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
     },
-           {
-      "key": "农民影视",
-      "name": "农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "热播影视",
-      "name": "热播┃影视",
-      "type": 3,
-      "api": "csp_AppRB",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+         
 
    {
       "key": "csp_非凡资源",
