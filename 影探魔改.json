@@ -15,6 +15,19 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
       {
+      "key": "三六零弹幕",
+      "name": "独家┃官源①",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+      {
       "key": "探探",
       "name": "影探┃影视",
       "type": 3,
