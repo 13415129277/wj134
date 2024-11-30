@@ -1,85 +1,42 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
-  "wallpaper": "https://bing.img.run/uhd.php",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext="
-          ]
-        }
-      ]
-    }
-  ],
   "sites": [
-  
-   
-   {
-      "key": "豆瓣",
-      "name": "味精┃聚合",
+    {
+      "key": "dbtj",
+      "name": "豆瓣┃推荐",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
-      "searchable": 1,
+      "api": "csp_DouDou",
+      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
+      "filterable": 0
     },
+   
     {
-      "key": "三六零弹幕",
-      "name": "味精┃4K1",
+      "key": "mmys",
+      "name": "天天┃4K",
       "type": 3,
-      "api": "csp_Sp360",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-
-    {
-      "key": "猫咪",
-      "name": "味精┃4K2",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
-      "playurl": "https://jx.nnxv.cn/tv.php?url=",
-      "categories": [
-        "电影",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+      "changeable": 1,
+      "playerType": 1,
+      "timeout": 15,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
     },
+   
+    {
+      "key": "ssys",
+      "name": "三三┃视频",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   
     {
       "key": "txsp",
-      "name": "味精┃4K3",
+      "name": "腾讯┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -87,36 +44,72 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
     },
-
     {
-      "key": "js_优酷",
-      "name": "味精┃4K4",
+      "key": "yksp",
+      "name": "优酷┃视频",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/drpymin.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/js/json/js/youku.js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
     },
+    {
+      "key": "mgsp",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
+    },
+    {
+      "key": "sgys",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+    },
+   
+    {
+      "key": "txdh",
+      "name": "腾讯┃动画",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
+    },
+    {
+      "key": "mgdh",
+      "name": "芒果┃动画",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
+    },
+   
  
     {
       "key": "push_agent",
       "name": "味精┃测试",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "6666666666666666"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
     }
   ],
   "parses": [
-        {
-      "name": "超级解析",
-      "type": 3,
-      "url": "Demo"
-    },
-   {
+     {
       "name": "味精4K",
       "type": 1,
       "url": "https://jx.xiaofengtv.com/jx.php?url=",
@@ -144,184 +137,184 @@
       }
     }
   ],
-  "flags": [
-    "youku",
-    "qq",
-    "QQ",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "pptv",
-    "PPTV",
-    "mgtv",
-    "wasu",
-    "bilibili",
-    "m1905",
-    "seven",
-    "m78"
-  ],
-  "ijk": [
+  "lives": [
     {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+      "name": "直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://meowtv.top/zb",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "spider": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
+  "wallpaper": "http://tool.teyonds.com/api",
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
       ]
     },
     {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
       ]
     }
   ],
-  "ads": []
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yq",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最新",
+        "直播",
+        "更新"
+      ]
+    }
+  ]
 }
