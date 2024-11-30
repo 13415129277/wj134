@@ -14,6 +14,16 @@
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
+      {
+      "key": "探探",
+      "name": "影探┃影视",
+      "type": 3,
+      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://47.99.102.252/js/yingtan.js"
+    },
      {
       "key": "SeedHub",
       "name": "🧲SeedHub｜磁力",
