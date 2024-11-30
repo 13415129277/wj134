@@ -20,7 +20,7 @@
       "pubdate": "2024-10-28"
     },
     {
-      "title": "战狼2",
+      "title": "永夜星河",
       "comment": "吴京热血回归扬国威",
       "upinfo": "",
       "doubanscore": "7.1",
