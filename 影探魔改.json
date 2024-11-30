@@ -87,6 +87,15 @@
         "欧美综艺"
       ]
     },
+     {
+      "key": "克隆合集",
+      "name": "克隆合集",
+      "type": 4,
+      "api": "http://zhangqun66.com/klhj.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
       {
       "key": "探探",
       "name": "影探┃影视",
