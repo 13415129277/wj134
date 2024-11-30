@@ -32,6 +32,21 @@
       "type": 3,
       "api": "csp_Dygang"
     },
+      {
+      "key": "csp_woog",
+      "name": "新V6┃磁力",
+      "type": 3,
+      "api": "csp_woog",
+      "changeable": 0,
+      "filterable": 1,
+      "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=bili&ou=公众号欧歌app;md5;a57d85d65c638f513e0aeb185090334e",
+      "ext": {
+        "site_urls": [
+          "https://og.nxog.eu.org",
+          "https://wog.nxog.eu.org"
+        ]
+      }
+    },
      {
       "key": "SeedHub",
       "name": "🧲SeedHub｜磁力",
