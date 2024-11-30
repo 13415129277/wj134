@@ -3,12 +3,16 @@
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
-    {
+   {
       "key": "豆瓣",
       "name": "味精┃备用",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
    
