@@ -46,7 +46,7 @@
     },
       {
       "key": "guoguo",
-      "name": "果果4K",
+      "name": "果果┃4K",
       "type": 3,
       "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "影酷1",
-      "name": "悠悠/超清",
+      "name": "悠悠┃超清",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
@@ -72,13 +72,15 @@
     
     
  
+{"key":"csp_Nmys","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.githubusercontent.com/a1b1cnmh/a1b1cnmh.github.io/refs/heads/main/sj/lib/nmys.json"},
+
     
   
 
 
      {
       "key": "高清资源网",
-      "name": "️高清|影视",
+      "name": "️高清┃影视",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playUrl": "https://vip.zykbf.com/?url=",
@@ -112,7 +114,7 @@
     },
       {
       "key": "jszy",
-      "name": "极速|影视",
+      "name": "极速┃影视",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "searchable": 1,
@@ -152,7 +154,7 @@
     },
       {
       "key": "量子资源",
-      "name": "量子|影视",
+      "name": "量子┃影视",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:https://tvmvip.com/lz2.php?url=",
