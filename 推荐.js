@@ -40,7 +40,7 @@
       "pubdate": "2017-07-27"
     },
     {
-      "title": "熊出没之探险日记",
+      "title": "吞噬星空",
       "comment": "光头强变身成为一名导游",
       "upinfo": "全52集",
       "doubanscore": "",
@@ -61,7 +61,7 @@
       "pubdate": "2017-11-28"
     },
     {
-      "title": "深潜",
+      "title": "完美世界",
       "comment": "成毅颖儿以身入局",
       "upinfo": "全38集",
       "doubanscore": "",
@@ -82,7 +82,7 @@
       "pubdate": "2024-11-13"
     },
     {
-      "title": "再见爱人 第四季",
+      "title": "斗罗大陆Ⅱ绝世唐门",
       "comment": "",
       "upinfo": "2024-11-30期",
       "doubanscore": "",
@@ -101,7 +101,7 @@
       "pubdate": "2024-10-17"
     },
     {
-      "title": "宿敌",
+      "title": "神印王座",
       "comment": "廖凡 朱珠 卧底片",
       "upinfo": "全16集",
       "doubanscore": "",
@@ -122,7 +122,7 @@
       "pubdate": "2024-01-01"
     },
     {
-      "title": "新猫和老鼠 第四季",
+      "title": "修仙归来当大佬",
       "comment": "",
       "upinfo": "全26集",
       "doubanscore": "",
