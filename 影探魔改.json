@@ -29,7 +29,20 @@
       "filterable": 1,
       "ext": " http:/122.228.85.237:2963/api.php/app/"
     },
-
+        {
+      "key": "荐片弹幕",
+      "name": "👍️荐片┃1080P",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
     
        {
       "key": "瓜子影视",
@@ -249,20 +262,7 @@
         "danmu": true
       }
     },
-        {
-      "key": "荐片弹幕",
-      "name": "👍️荐片┃1080P",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+
  
      {
       "key": "SeedHub",
