@@ -75,6 +75,27 @@
       "ext": " http:/122.228.85.237:2963/api.php/app/"
     },
         {
+      "key": "csp_Wwys",
+      "name": "👨农民┃1080P",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
+    {
+      "key": "csp_XSX",
+      "name": "👀视讯┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+        {
       "key": "荐片弹幕",
       "name": "👍️荐片┃1080P",
       "type": 3,
