@@ -72,7 +72,14 @@
     },
 
     
-    
+       {
+      "key": "瓜子影视",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "changeable": 2,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "http://47.99.102.252/js/guazi2.js"
+    },
         {
             "key": "巨人弹幕",
             "name": "巨人┃App",
