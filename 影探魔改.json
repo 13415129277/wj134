@@ -58,7 +58,7 @@
     },
   {
       "key": "csp_JPYY",
-      "name": "🥇文采┃1080P",
+      "name": "🥇文采┃APP",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -67,7 +67,74 @@
       "filterable": 1,
       "ext": ""
     },
- 
+  {
+      "key": "csp_zhufan",
+      "name": "🚗追饭┃4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "csp_MiTo",
+      "ext": {
+        "url": "http://xiafan.zhuiju666.com",
+        "dataKey": "aassddwwxxllsx1x",
+        "playKey": "bbssqdbbssll25sx",
+        "version": "1.1.0"
+      }
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃app",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+  
+    {
+      "key": "csp_SuBaiBai",
+      "name": "☁️白白┃app",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "playerType": 2,
+      "ext": "https://subaibai.com/"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🏭厂长┃app",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "ext": "http://www.czzyvideo.com"
+    },
+   
+  
+    {
+      "key": "huohuo",
+      "name": "💥火火┃app",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "荐片",
+      "name": "🍭荐片┃app",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🐶汪汪┃app",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
        {
       "key": "瓜子影视",
       "name": "瓜子┃影视",
@@ -368,74 +435,7 @@
       "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
-    {
-      "key": "csp_zhufan",
-      "name": "🚗追饭┃1080P",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "csp_MiTo",
-      "ext": {
-        "url": "http://xiafan.zhuiju666.com",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "1.1.0"
-      }
-    },
-    {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-  
-    {
-      "key": "csp_SuBaiBai",
-      "name": "☁️白白┃1080P",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://subaibai.com/"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "🏭厂长┃1080P",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "ext": "http://www.czzyvideo.com"
-    },
    
-  
-    {
-      "key": "huohuo",
-      "name": "💥火火┃1080P",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_SaoHuo"
-    },
-    {
-      "key": "荐片",
-      "name": "🍭荐片┃磁力",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
-    {
-      "key": "csp_Wwys",
-      "name": "🐶汪汪┃1080P",
-      "type": 3,
-      "playerType": 2,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
     {
       "key": "星芽短剧",
       "name": "独家┃短剧",
