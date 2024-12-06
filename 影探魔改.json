@@ -73,6 +73,14 @@
 
     
     
+        {
+            "key": "巨人弹幕",
+            "name": "巨人┃App",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/巨人弹幕.js"
+        },
+
     
  
     
