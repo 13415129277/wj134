@@ -56,7 +56,18 @@
         "danmu": true
       }
     },
-      
+  {
+      "key": "csp_JPYY",
+      "name": "🥇文采┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+ 
        {
       "key": "瓜子影视",
       "name": "瓜子┃影视",
@@ -382,18 +393,7 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "csp_JPYY",
-      "name": "🥇文采┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
- 
+  
     {
       "key": "csp_SuBaiBai",
       "name": "☁️白白┃1080P",
