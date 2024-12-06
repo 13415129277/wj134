@@ -43,7 +43,20 @@
         "danmu": true
       }
     },
-    
+      {
+      "key": "文才弹幕",
+      "name": "✨文采┃1080P",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+      
        {
       "key": "瓜子影视",
       "name": "瓜子┃影视",
@@ -297,19 +310,6 @@
     
    
        
-        {
-      "key": "文才弹幕",
-      "name": "✨文采┃1080P",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
       
    
        {
