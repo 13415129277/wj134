@@ -7,7 +7,7 @@
   "sites": [
      {
       "key": "豆瓣",
-      "name": "测试阶段已结束",
+      "name": "味精：测试",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
