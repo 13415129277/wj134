@@ -27,10 +27,7 @@
       "url": "http://vip.hys.cool//app/api.json",
       "name": "味精：华影视专线"
     }, 
-    {
-      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json",
-      "name": "味精：魔盒专线"
-    }, 
+  
     {
       "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
       "name": "味精：蓝天专线"
