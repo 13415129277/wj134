@@ -45,6 +45,13 @@
   "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "ext": "http://kxrj.site:55/lib/js/瓜子.js"
 },
+    {
+      "key": "大米星球",
+      "name": "机器人┃采集",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"
+    },
    {
       "key": "客星",
       "name": "客星┃App",
