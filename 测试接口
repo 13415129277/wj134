@@ -45,13 +45,7 @@
   "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "ext": "http://kxrj.site:55/lib/js/瓜子.js"
 },
-   {
-      "key": "XBPQ_黑木耳",
-      "name": "♠️黑木耳┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/heimuer.json"
-    },
+
     {
       "key": "大米星球",
       "name": "机器人┃采集",
