@@ -31,7 +31,7 @@
     "order": 1,
     "status": true,
     "version": "3.0.0.10725",
-    "name": "TV",
+    "name": "我的电视",
     "packagename": "com.cctv.yangshipin.app.androidp",
     "icon": "http://134.175.52.88:8899/img/TV.png",
     "apk": "http://134.175.52.88:8899/app/TV-V3.0010725.apk"
