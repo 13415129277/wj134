@@ -123,7 +123,7 @@
         "danmu": true
       }
     },
-    
+       
     {
       "key": "huohuo",
       "name": "1080P站-E",
@@ -133,12 +133,17 @@
     },
  
     {
-      "key": "csp_SuBaiBai",
+      "key": "三六零弹幕",
       "name": "1080P站-F",
       "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://subaibai.com/"
+      "api": "csp_Sp360",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "csp_Czsapp",
