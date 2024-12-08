@@ -256,7 +256,7 @@
   "parses": [
        
     {
-      "name": "线路1",
+      "name": "1080解析1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -266,12 +266,12 @@
       }
     },
     {
-      "name": "盘古解析",     
+      "name": "1080解析2",     
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
      {
-      "name": "解析1",
+      "name": "1080解析3",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
@@ -300,7 +300,7 @@
       }
     },
     {
-      "name": "巧技二",
+      "name": "1080解析4",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
