@@ -153,7 +153,19 @@
       "playerType": 2,
       "ext": "http://www.czzyvideo.com"
     },
-  
+      {
+      "key": "机器人弹幕",
+      "name": "全广资源站-VIP",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
   
    
  
