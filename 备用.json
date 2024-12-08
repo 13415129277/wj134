@@ -82,12 +82,14 @@
     },   
 
 
-    {
-      "key": "zhaixing",
+     {
+      "key": "热播影视",
       "name": "1080P站-B",
       "type": 3,
-      "api": "csp_AppZX",
-      "playerType": 2
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 
         
