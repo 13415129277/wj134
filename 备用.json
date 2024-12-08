@@ -154,7 +154,7 @@
     },
     {
       "key": "繁荣",
-      "name": "凡人┃影视",
+      "name": "1080P-H",
       "type": 3,
       "api": "csp_Frong",
       "playerType": 2,
@@ -163,14 +163,14 @@
     },
     {
       "key": "人人影视",
-      "name": "人人┃影视",
+      "name": "1080P-I",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "影片类型": "玉玉软件库",
+        "影片类型": "味精影院",
         "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
         "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
@@ -179,7 +179,7 @@
 
     {
       "key": "csp_xBPQ_素白",
-      "name": "素白┃影视",
+      "name": "1080P-J",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
