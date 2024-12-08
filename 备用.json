@@ -153,6 +153,17 @@
       "playerType": 2,
       "ext": "http://www.czzyvideo.com"
     },
+    {
+      "key": "duanjuxy",
+      "name": "独家┃短剧",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/6b29198cfdb740a9be3d210ee958cc44.jpg"
+    },
       {
       "key": "机器人弹幕",
       "name": "全广资源站-VIP",
