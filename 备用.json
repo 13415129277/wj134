@@ -352,7 +352,7 @@
       }
     },
         {
-      "name": "巧技",
+      "name": "1080解析2",
       "type": 1,
       "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
@@ -381,7 +381,7 @@
       }
     },
  {
-      "name": "巧技二",
+      "name": "1080解析3",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
@@ -410,6 +410,23 @@
         }
       }
     }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78"
   ],
   "lives": [
     {
