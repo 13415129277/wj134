@@ -226,6 +226,16 @@
       }
     },
 
+    {
+      "key": "zhaixing",
+      "name": "1080P站①①",
+      "type": 3,
+      "api": "csp_AppZX",
+      "jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar",
+      "playerType": 2
+    },
+
+
 {
       "key": "高清资源网",
       "name": "味精┃高清",
