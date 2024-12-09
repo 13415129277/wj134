@@ -159,20 +159,10 @@
       "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
     },
 
-    {
-      "key": "繁荣",
-      "name": "1080P站⑧",
-      "type": 3,
-      "api": "csp_Frong",
-      "playerType": 2,
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
-    },
-
-
+ 
     {
       "key": "人人影视",
-      "name": "1080P站⑨",
+      "name": "1080P站⑧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -190,7 +180,7 @@
 
     {
       "key": "csp_xBPQ_素白",
-      "name": "1080P站⑩",
+      "name": "1080P站⑨",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -228,7 +218,7 @@
 
     {
       "key": "zhaixing",
-      "name": "1080P站①①",
+      "name": "1080P站⑩",
       "type": 3,
       "api": "csp_AppZX",
       "jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar",
