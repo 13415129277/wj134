@@ -19,7 +19,7 @@
   
     {
       "key": "农民",
-      "name": "1080P站-A",
+      "name": "1080P站①",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -85,7 +85,7 @@
 
      {
       "key": "热播影视",
-      "name": "1080P站-B",
+      "name": "1080P站②",
       "type": 3,
       "api": "csp_AppRB",
       "searchable": 1,
@@ -97,7 +97,7 @@
       
     {
       "key": "csp_河马",
-      "name": "1080P站-C",
+      "name": "1080P站③",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -114,7 +114,7 @@
 
     {
       "key": "文才弹幕",
-      "name": "1080P站-D",
+      "name": "1080P站④",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -130,7 +130,7 @@
        
     {
       "key": "huohuo",
-      "name": "1080P站-E",
+      "name": "1080P站⑤",
       "type": 3,
       "changeable": 0,
       "api": "csp_SaoHuo"
@@ -139,7 +139,7 @@
 
     {
       "key": "三六零弹幕",
-      "name": "1080P站-F",
+      "name": "1080P站⑥",
       "type": 3,
       "api": "csp_Sp360",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -153,7 +153,7 @@
 
        {
       "key": "小熊弹幕",
-      "name": "1080P站-G",
+      "name": "1080P站⑦",
       "type": 3,
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
@@ -161,7 +161,7 @@
 
     {
       "key": "繁荣",
-      "name": "1080P站-H",
+      "name": "1080P站⑧",
       "type": 3,
       "api": "csp_Frong",
       "playerType": 2,
@@ -172,7 +172,7 @@
 
     {
       "key": "人人影视",
-      "name": "1080P站-I",
+      "name": "1080P站⑨",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -190,7 +190,7 @@
 
     {
       "key": "csp_xBPQ_素白",
-      "name": "1080P站-J",
+      "name": "1080P站⑩",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
