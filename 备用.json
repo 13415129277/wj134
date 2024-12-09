@@ -215,7 +215,7 @@
         "主演": "主演：&&</li>",
         "简介": "yp_context\">&&</p>",
         "线路数组": "mi_paly_box\">&&</div>",
-        "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>素白专线]",
+        "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>味精:素白专线]",
         "播放数组": "<div class=\"paly_list_btn\">&&</div>[替换:https://www.subaibaiys.com>>https://www.subaibai.com]",
         "播放列表": "<a&&/a>",
         "播放标题": ">&&<",
@@ -225,6 +225,32 @@
         "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$wangchuanxin.top#Origin$https://www.subaibai.com/"
       }
     },
+
+{
+      "key": "高清资源网",
+      "name": "味精┃高清",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
+      "categories": [
+        "短剧",
+        "爽文短剧",
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "爱情片", 
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "大陆综艺",
+        "国产动漫"
+      ]
+    },
+
 
     {
       "key": "农民影视",
