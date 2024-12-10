@@ -23,19 +23,15 @@
       "api": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js/360影视.js"
     },
-
-
     {
-      "key": "hipy_js_多多追剧[优]",
+      "key": "drpy_js_优酷",
       "name": "😈味精备用😈",
       "type": 3,
-      "api": "http://mdxgh.tpddns.cn:9999/1107lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://mdxgh.tpddns.cn:9999/1107lib/多多追剧[优].js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/优酷.js"
     },
+
+    
 
 
     {
