@@ -5,60 +5,10 @@
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
-     {
-      "key": "豆瓣",
-      "name": "味精：测试",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
-    },
+    
 
-          {
-      "key": "guoguo",
-      "name": "果果┃4K",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
-    {
-      "key": "风中知秋",
-      "name": "🌀摸鱼4K┃风中知秋",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://yuhuavip1.top/育华学堂/lib/cd.jar",
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
-      }
-    },
-    {
-      "key": "炉火茶香",
-      "name": "🌀摸鱼4K┃炉火茶香",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2blhjGe5XpRJzt28WdKpAOLIdkF5c7qnry0vLSuNURpG",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "dJfwfXAVjjaQz8j4tCkylOzM25rS6UDt2JFvGkrFC/U="
-      }
-    },
+       
+    
 
 
       
