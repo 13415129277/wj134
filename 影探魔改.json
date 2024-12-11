@@ -71,14 +71,7 @@
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
-    {
-      "key": "荐片",
-      "name": "🍭荐片┃app",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
+  
     {
       "key": "csp_Wwys",
       "name": "🐶汪汪┃app",
