@@ -85,7 +85,7 @@
        
  {
       "key": "大米星球",
-      "name": "大米｜APP",
+      "name": "大米｜有广",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"
@@ -97,7 +97,7 @@
  
       {
       "key": "jszy",
-      "name": "极速┃影视",
+      "name": "极速┃有广",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "searchable": 1,
@@ -139,7 +139,7 @@
 
      {
       "key": "360",
-      "name": "秒播┃采集",
+      "name": "秒播┃有广",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -182,7 +182,7 @@
     },
       {
       "key": "暴风",
-      "name": "暴风云",
+      "name": "暴风┃有广",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -224,7 +224,7 @@
        
      {
       "key": "克隆合集",
-      "name": "克隆┃影视",
+      "name": "克隆┃有广",
       "type": 4,
       "api": "http://zhangqun66.com/klhj.php",
       "searchable": 1,
