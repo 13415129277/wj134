@@ -11,7 +11,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "ext": "./N3RD/T/douban.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"
     },
 
 
