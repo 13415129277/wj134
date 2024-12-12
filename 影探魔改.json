@@ -6,15 +6,16 @@
     
 
 
-
-
     {
-      "key": "csp_Douban",
-      "name": "味精┃推荐",
+      "key": "豆瓣",
+      "name": "味精┃热播",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"
+      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
 
