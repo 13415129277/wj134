@@ -4,6 +4,18 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     
+
+    {
+      "key": "csp_Douban",
+      "name": "味精┃推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "ext": "./N3RD/T/douban.json"
+    },
+
+
+
 {
       "key": "csp_Qiyou_FM",
       "name": "🥝奇优┃App",
