@@ -5,7 +5,17 @@
   "sites": [
     
 
-       
+           {
+      "key": "csp_TTian_追剧_QJ",
+      "name": "✈追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "daHR0cDovL3YubGt1eXMuY24="
+    },
  
           {
       "key": "csp_TTian_天天_QJ",
