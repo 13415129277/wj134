@@ -4,7 +4,13 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     
-
+{
+      "key": "csp_Qiyou_FM",
+      "name": "🥝奇优┃App",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com/"
+    },
            {
       "key": "csp_TTian_追剧_QJ",
       "name": "✈追剧┃App",
