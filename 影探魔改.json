@@ -7,11 +7,29 @@
 
        
  
-      
+          {
+      "key": "csp_TTian_天天_QJ",
+      "name": "天天┃app",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
+    },
+    {
+      "key": "csp_TTian_热播_QJ",
+      "name": "热播┃app1",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "caHR0cDovL3YucmJvdHYuY24="
+    },
   
         {
       "key": "csp_AppTT_热播",
-      "name": "✨热播┃app",
+      "name": "✨热播┃app2",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
