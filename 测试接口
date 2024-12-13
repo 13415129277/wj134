@@ -38,7 +38,7 @@
 
     {
       "key": "天天弹幕",
-      "name": "🐹天天｜弹幕",
+      "name": "🐹天天｜影视",
       "type": 3,
       "api": "csp_TianTian",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
@@ -51,7 +51,7 @@
     },
     {
       "key": "热播弹幕",
-      "name": "🐶热播｜弹幕",
+      "name": "🐶热播｜影视",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "type": 3,
       "api": "csp_ReBo",
