@@ -51,6 +51,14 @@
       "name": "味精：紫气大佬专线"
     },
 
+ { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", 
+            "name": "味精：戏曲/音乐" 
+        },
+        {   
+        	"url": "https://raw.gitmirror.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
+            "name": "味精：少儿频道" 
+        },
 
  {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/jiexi.json",
@@ -177,15 +185,7 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/短剧频道/api.json", 
             "name": "味精：爱看短剧" 
         },
-      { 
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json", 
-            "name": "味精：戏曲音乐" 
-        },
-        {   
-        	"url": "https://raw.gitmirror.com/ls125781003/tvboxtg/main/少儿频道/api.json", 
-            "name": "味精：少儿频道" 
-        },
-
+     
 {
       "url": "https://ddzb.fun/dgmusic/api.json",
       "name": "味精：🎵DG音乐专线"
