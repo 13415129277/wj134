@@ -85,15 +85,7 @@
 {"key":"360_spider","name":"官源┃专线","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 
 
-    {
-      "key": "热播",
-      "name": "热播┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "caHR0cDovL3YucmJvdHYuY24="
-    },
-
+   
 
     {
       "key": "mgys",
