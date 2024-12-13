@@ -229,37 +229,9 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "👉味精独解👈",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+ 
       {
-      "name": "👉味精备解👈",
+      "name": "👉味精独解👈",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
