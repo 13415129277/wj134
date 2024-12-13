@@ -18,6 +18,9 @@
 
 
 
+    
+
+
    {
       "url": "https://ghp.ci/https://github.com/13415129277/wj134/blob/main/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3",
       "name": "味精维护：主力线路"
@@ -309,7 +312,11 @@
   
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "味精推荐：巧技专线"
+      "name": "味精：巧技专线"
+    },
+     {
+      "url": "https://raw.gitmirror.com/13415129277/wj134/refs/heads/main/%E5%AE%9E%E9%AA%8C.json",
+      "name": "味精维护：实验接口–勿用"
     }
   ]
 }
