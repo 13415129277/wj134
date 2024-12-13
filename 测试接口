@@ -38,7 +38,7 @@
 
     {
       "key": "天天弹幕",
-      "name": "🐹天天｜影视",
+      "name": "🐹天天┃app",
       "type": 3,
       "api": "csp_TianTian",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
@@ -51,7 +51,7 @@
     },
     {
       "key": "热播弹幕",
-      "name": "🐶热播｜影视",
+      "name": "🐶热播┃app",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "type": 3,
       "api": "csp_ReBo",
@@ -62,7 +62,19 @@
         "danmu": true
       }
     },
-    
+        {
+      "key": "糯米弹幕",
+      "name": "🍚糯米┃app",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
    {
       "key": "客星",
       "name": "客星┃App",
