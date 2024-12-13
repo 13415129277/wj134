@@ -31,7 +31,7 @@
 
     {
       "key": "热播",
-      "name": "📺热播┃多线",
+      "name": "瓜子┃专线1",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -42,7 +42,7 @@
     },
     {
       "key": "农民影视",
-      "name": "独家┃备用",
+      "name": "瓜子┃专线2",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
@@ -53,7 +53,7 @@
 
           {
       "key": "木星",
-      "name": "🌞木星┃多线",
+      "name": "瓜子┃专线3",
       "type": 3,
       "api": "csp_AppSx",
       "searchable": 1,
@@ -63,34 +63,34 @@
     },
     {
       "key": "csp_Nongm",
-      "name": "🌾️农民┃影视",
+      "name": "瓜子┃专线4",
       "type": 3,
       "api": "csp_Nongm",
       "ext": "https://wwgz.cn"
     },
 {
       "key": "csp_Kanke",
-      "name": "🛳️看客┃影视",
+      "name": "瓜子┃专线5",
       "type": 3,
       "api": "csp_Kanke"
     },
     {
       "key": "csp_Jpyy",
-      "name": "🥇️金牌┃影视",
+      "name": "瓜子┃专线6",
       "type": 3,
       "api": "csp_Jpyy"
     },
 
     {
       "key": "csp_Qiyou",
-      "name": "🥝奇优┃影视",
+      "name": "瓜子┃专线7",
       "type": 3,
       "api": "csp_Qiyou",
       "ext": "http://www.dyxz2.com/"
     },
     {
       "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
+      "name": "瓜子┃专线8",
       "type": 3,
       "playerType": 2,
       "changeable": 0,
@@ -99,21 +99,21 @@
     },
 {
       "key": "csp_电影",
-      "name": "🎬电影┃1080P",
+      "name": "瓜子┃专线9",
       "type": 3,
       "api": "csp_MiTuApp",
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
     },
 {
       "key": "zhaixing",
-      "name": "✨摘星┃1080P",
+      "name": "瓜子┃专线10",
       "type": 3,
       "api": "csp_AppZX",
       "playerType": 2
     },
     {
       "key": "csp_XSX",
-      "name": "👀视讯┃1080P",
+      "name": "瓜子┃专线11",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -125,13 +125,13 @@
     },
  
 
-   {"key":"360_spider","name":"官源┃专线","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""}, 
+   {"key":"360_spider","name":"官源┃测试","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""}, 
 
 
 
     {
       "key": "push_agent",
-      "name": "味精┃测试",
+      "name": "公众号【味精影院】",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
