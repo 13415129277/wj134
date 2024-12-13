@@ -385,9 +385,6 @@
     },
 
 
-
-{"key":"yinyue","name":"🎵味精┃酷狗┃音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar","ext":"https://d.kstore.space/download/6474/tvbox/json/music.json"},
-
     {
       "key": "push_agent",
       "name": "味精┃测试",
