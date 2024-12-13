@@ -1,24 +1,5 @@
 
-  "lives": [
-    {
-      "name": "lPV6",
-      "type": 0,
-      "url": "https://龙伊.top/直播/IPV6.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-{
-      "name": "备用",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    }
-  ],
+  
   "sites": [
     {
       "key": "豆瓣",
@@ -304,4 +285,24 @@
 },
 {
   "spider": "http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
-  "wallpaper": "https://bing.img.run/uhd.php"
+  "wallpaper": "https://bing.img.run/uhd.php",
+
+  "lives": [
+    {
+      "name": "lPV6",
+      "type": 0,
+      "url": "https://龙伊.top/直播/IPV6.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+{
+      "name": "备用",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
