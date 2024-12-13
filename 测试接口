@@ -75,6 +75,21 @@
         "danmu": true
       }
     },
+ {
+      "key": "csp_河马",
+      "name": "💡河马┃app",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&3&4"
+      }
+    },
    {
       "key": "客星",
       "name": "客星┃App",
@@ -371,7 +386,7 @@
 
 
 
-
+{"key":"yinyue","name":"🎵味精┃酷狗┃音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar","ext":"https://d.kstore.space/download/6474/tvbox/json/music.json"},
 
     {
       "key": "push_agent",
