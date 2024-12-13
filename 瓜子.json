@@ -29,17 +29,7 @@
 },
 
 
-    {
-      "key": "热播",
-      "name": "瓜子┃专线1",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
+   
     {
       "key": "农民影视",
       "name": "瓜子┃专线2",
@@ -51,23 +41,7 @@
       "filterable": 1
     },
 
-          {
-      "key": "木星",
-      "name": "瓜子┃专线3",
-      "type": 3,
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-    },
-    {
-      "key": "csp_Nongm",
-      "name": "瓜子┃专线4",
-      "type": 3,
-      "api": "csp_Nongm",
-      "ext": "https://wwgz.cn"
-    },
+         
 {
       "key": "csp_Kanke",
       "name": "瓜子┃专线5",
