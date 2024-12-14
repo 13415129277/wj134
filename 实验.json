@@ -51,7 +51,7 @@
             "name": "小白影视",
             "type": 3,
             "api": "csp_XBPQ",
-	     "jar": "./lib/cv.jar",
+	     "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/cv.jar",
             "playerType": "1",
             "ext": {
                 "站名": "素白白影视",
