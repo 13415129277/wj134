@@ -86,7 +86,30 @@
 "api":"csp_SP360","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
    
  {"key":"csp_Ikanbot","name": "星月剧院","type": 3,"api": "csp_Ikanbot", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/cv.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
-         
+
+
+
+
+	    {
+      "key": "csp_盒子",
+      "name": "味精┫盒子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "大陆",
+        "副标题": "味精✨HD+class=\"jidi\"><span>&&</span>",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "💕味精👉+<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "🏮劉氏-电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"
+      }
+    },
                    {
       "key": "csp_红狐狸影视",
       "name": "红狐狸",
