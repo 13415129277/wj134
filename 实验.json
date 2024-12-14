@@ -25,6 +25,81 @@
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
+	   {
+      "key": "即看影视",
+      "name": "🔥即看┃超清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/dokilwss.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.jkv.app/",
+        "数组": "class=\"vodlist_thumb lazyload\"&&</a",
+        "图片": "data-background-image=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/hls/#php",
+        "副标题": "<span class=\"pack_tagtext\">&&</span>",
+        "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>",
+        "搜索图片": "data-background-image=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"xszxj text_right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "href=\"javascript:void(0);\"&&</a>",
+        "线路标题": "alt=\"&&\"",
+        "播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>",
+        "影片年代": "上映时间：&&</li>",
+        "影片类型": "地区：&&</li>",
+        "影片状态": "语言：&&</li>",
+        "导演": "导演：&&</li>",
+        "主演": "主演：&&</li>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"content_desc context clearfix\"&&</span>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
+      }
+    },
+	    {
+      "key": "影馆影视",
+      "name": "🔥影馆┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://4kdyg.top/api.php/v1.vod"
+    },
+    {
+      "key": "吉吉短剧",
+      "name": "🔥吉吉┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/xyqxbpq.jar",
+      "ext": {
+        "分类": "短剧$1#电视剧$5",
+        "分类url": "https://www.jjduanju.com/sort/{cateId}.html"
+      }
+    },
+	     {
+      "key": "繁荣",
+      "name": "🔥凡人┃1080P",
+      "type": 3,
+      "api": "csp_Frong",
+      "playerType": 2,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+    },
+	 
 	    {
       "key": "看片狂人",
       "name": "看片狂人",
