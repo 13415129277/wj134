@@ -98,6 +98,17 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
+	      {
+      "key": "贱贱",
+      "name": "🐭贱贱┃无广",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/荐片.js"
+    },
     {
       "key": "暴风采集",
       "name": "🍁暴凤采集🍁|cdn2020",
