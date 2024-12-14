@@ -25,6 +25,123 @@
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
+	    {
+      "key": "看片狂人",
+      "name": "看片狂人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "免嗅": "1",
+        "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+        "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]",
+        "分类": "国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"
+      }
+    },
+	      {
+      "key": "xbpq_1个g",
+      "name": "壹季",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/壹季.json"
+    },
+	      {
+      "key": "xbpq_美益达",
+      "name": "美益达",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/美益达.json"
+    },
+	     {
+      "key": "csp_XBPQ_麦田",
+      "name": "麦田",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/麦田.json"
+    },
+	   {
+      "key": "wwgz旺旺",
+      "name": "旺旺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/旺旺.json"
+    },
+	      {
+      "key": "xbpq_看看屋",
+      "name": "看看屋",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/看看屋.json"
+    },
+	      {
+      "key": "XBPQ_里里影院",
+      "name": "里里",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/里里影院.json"
+    },
+	   {
+      "key": "xbpq_天堂电影网",
+      "name": "天堂1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/天堂电影网.json"
+    },
+    {
+      "key": "xbpq_电影天堂",
+      "name": "天堂2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/电影天堂.json"
+    },
+	      {
+      "key": "xbpq_爱影视",
+      "name": "爱影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/爱影视.json"
+    },
+	      {
+      "key": "xbpq_优质资源库",
+      "name": "优质",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/json/优质资源库.json"
+    },
+	      {
+      "key": "播剧影视",
+      "name": "播剧┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.boju.cc/vodshow/movie-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$movie#电视剧$tvplay#动漫$dongman#综艺$tvshow#短剧$duanju#电影解说$dyjs"
+      }
+    },
   {
       "key": "影视大全",
       "name": "影视大全",
