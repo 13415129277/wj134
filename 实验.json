@@ -26,16 +26,9 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 	
-    {
-      "key": "py_247看",
-      "name": "247看剧",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://9071.kstore.vip/py/247看(3).py"
-    },
+    
+
+
 	   {
       "key": "纽约影视",
       "name": "🧿纽约┃蓝光",
