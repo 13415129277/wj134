@@ -49,6 +49,72 @@
         "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
       }
     },
+	   {
+      "key": "豌豆影院",
+      "name": "豌豆┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "公众号【味精影院】",
+        "影片年代": "年份: &&</p>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型: &&</p>",
+        "主演": "主演: &&</p>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+        "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
+      }
+    },
+	      {
+      "key": "星辰xBPQ",
+      "name": "星辰┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+        "简介": "味精友情提醒🔺勿信广告，避免受骗🔺+class=\"detail-sketch\">&&</span>",
+        "线路数组": "#playlist&&</li>",
+        "线路标题": "味精💠+>&&</a>[排序:神马云播>阿里云播>]",
+        "播放标题": ">&&<[不包含:1080P]"
+      }
+    },
+    {
+      "key": "csp_星辰",
+      "name": "星辰┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://www.xingchenwu.com/",
+        "简介": "[味精]提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "影片状态": "状态：&&</p>",
+        "影片类型": "类型：&&</p>",
+        "数组": "stui-vodlist__thumb lazyload\"&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "味精蓝光✨+text-right\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "http://www.xingchenwu.com/search.php;post;searchword={wd}",
+        "搜索数组": "stui-vodlist__thumb lazyload\"&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "味精专享✨+>&&<",
+        "播放链接": "href='&&'",
+        "分类url": "http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      }
+    },
 	    {
       "key": "iysdq",
       "name": "影院大全",
