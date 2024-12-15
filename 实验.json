@@ -25,8 +25,48 @@
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
-
-
+{
+      "key": "魅影影视",
+      "name": "魅影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "味精专属",
+        "搜索url": "https://www.heitujc.com/search/-------------.html?wd={wd}",
+        "搜索数组": "<a class=\"video-pic&&</a",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类": "电影&电视剧&综艺&动漫",
+        "分类值": "1&2&3&4"
+      }
+    },
+	  {
+      "key": " fxz好影",
+      "name": "💖分享好影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享好影.json"
+    },
+    {
+      "key": "o站影视",
+      "name": "💖分享O站",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "味精剧情介绍:+line-height: 20px;\">&&</div>",
+        "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
 	   {
       "key": "纽约影视",
       "name": "🧿纽约┃秒播",
