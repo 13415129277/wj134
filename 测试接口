@@ -246,7 +246,6 @@
 
 
 
-
     {
       "key": "人人影视",
       "name": "人人┃影视",
@@ -277,6 +276,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
     {
       "key": "csp_JPYY",
       "name": "金牌┃App",
@@ -289,6 +289,7 @@
       "playerType": 1,
       "ext": ""
     },
+
     {
       "key": "csp_Wwys",
       "name": "汪汪┃影视",
@@ -299,6 +300,7 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
     },
+
     {
       "key": "huohuo",
       "name": "火火┃影视",
@@ -320,6 +322,7 @@
       "quickSearch": "1",
       "filterable": "1"
     },
+
     {
       "key": "小米",
       "name": "小米┃App",
