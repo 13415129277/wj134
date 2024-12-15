@@ -311,16 +311,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "柠檬",
-      "name": "柠檬┃影视",
-      "type": 3,
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-    },
-
+  
     {
       "key": "Kuaikan",
       "name": "快看┃影视",
