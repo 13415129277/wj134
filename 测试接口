@@ -37,35 +37,9 @@
 
    
 
-    {
-      "key": "天天弹幕",
-      "name": "🐹天天┃app",
-      "type": 3,
-      "api": "csp_TianTian",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "热播弹幕",
-      "name": "🐶热播┃app",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
-      "type": 3,
-      "api": "csp_ReBo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
         {
       "key": "糯米弹幕",
-      "name": "🍚糯米┃app",
+      "name": "味精┃专线1",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
@@ -76,24 +50,18 @@
         "danmu": true
       }
     },
- {
-      "key": "csp_河马",
-      "name": "💡河马┃app",
+{
+      "key": "客星",
+      "name": "味精┃专线2",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影&电视剧&动漫&综艺",
-        "分类值": "1&2&3&4"
-      }
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
     },
-    {
+   
+{
       "key": "saohuo",
-      "name": "🥝骚火┃app",
+      "name": "味精┃专线3",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -114,141 +82,49 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },
-   {
-      "key": "客星",
-      "name": "客星┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
-    },
-   
-
-
-
-
-
-   
-
-    {
-      "key": "mgys",
-      "name": "果果┃官源",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/e4810a9db474fddf55aa07e98ce3ceb01b233201/mg.js"
-    },
-
-    {
-      "key": "qqys",
-      "name": "腾腾┃官源",
-      "type": 3,
-      "api": "https://bbs.ystv.cc/js/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾腾┃备用",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://github.com/13415129277/wj134/blob/main/%E8%85%BE%E8%85%BE"
-    },
-
-
-
-
-
-    {"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=qysp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
-    {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=txsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
-    {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=yksp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
-    {"key": "mgsp","name": "芒果┃视频","type": 3,"api": "MJS_mgsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=mgsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
-    {"key": "sgys","name": "搜狗┃视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=sgsp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
-
-
-
-
-
+ 
     
+   
+
+
 
 
    
-    {
-      "key": "csp_Jpys",
-      "name": "文才┃影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "🌟客星",
-      "name": "客星┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
-    },
-    
-
-    {
-      "key": "探探",
-      "name": "影探┃App",
-      "type": 3,
-      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://47.99.102.252/js/yingtan.js"
-    },
 
 
-    {
-      "key": "布蕾",
-      "name": "布蕾┃影视",
-      "type": 3,
-      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://47.99.102.252/drpy_js/bulei.js"
-    },
+
+    {"key": "yksp","name": "味精┃专线4","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/js/meow.php?file=yksp","api": "http://www.meowtv.cn/js/drpy2.min.js"},
+  
 
 {
-      "key": "小熊弹幕",
-      "name": "小熊┃影视",
+      "key": "csp_河马",
+      "name": "味精┃专线5",
       "type": 3,
-      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
-    },
-    {
-      "key": "农民影视",
-      "name": "农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_XBPQ",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&3&4"
+      }
     },
 
+    
 
+
+   
+  
+    
+
+ 
 
 
     {
       "key": "人人影视",
-      "name": "人人┃影视",
+      "name": "味精┃专线6",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
