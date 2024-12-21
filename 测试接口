@@ -143,7 +143,7 @@
 
     {
       "key": "文采",
-      "name": "文采┃影视",
+      "name": "味精┃专线7",
       "type": 3,
       "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
       "api": "csp_Jpys",
@@ -155,7 +155,7 @@
 
     {
       "key": "csp_JPYY",
-      "name": "金牌┃App",
+      "name": "味精┃专线8",
       "type": 3,
       "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
       "api": "csp_Jpyy",
@@ -168,7 +168,7 @@
 
     {
       "key": "csp_Wwys",
-      "name": "汪汪┃影视",
+      "name": "味精┃专线9",
       "type": 3,
       "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
       "playerType": 1,
@@ -177,28 +177,7 @@
       "ext": "https://www.wwgz.cn/"
     },
 
-    {
-      "key": "huohuo",
-      "name": "火火┃影视",
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-  
-    {
-      "key": "Kuaikan",
-      "name": "快看┃影视",
-      "type": "3",
-      "jar": "https://git.acwing.com/ocean2025/ocean/-/raw/main/jars/qj8.jar;md5;9bb70df776325973562070580f4a29f6",
-      "api": "csp_Kuaikan",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
-    },
-
+    
 
     
 
