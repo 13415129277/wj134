@@ -35,65 +35,7 @@
     },
 
 
-       {
-      "key": "py_kk",
-      "name": "夸克网盘激活器",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "py_夸克ck",
-      "ext": "https://9071.kstore.vip/py/p/夸克ck.py"
-    },
-
-
-   {
-      "key": "csp_Wogg",
-      "name": "🧸玩偶┃4K4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "changeable": 0,
-      "filterable": 1,
-      "jar": "https://9071.kstore.vip/jar/4k.jar",
-      "ext": {
-        "site_urls": [
-          "http://woggpan.333232.xyz/",
-          "http://wogg.xxooo.cf/",
-          "http://woggapi.888484.xyz/",
-          "http://www.wogg.net"
-        ],
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 10
-        }
-      }
-    },
-
-
-    {
-      "key": "csp_Netfixtv",
-      "name": "💯至臻┃4K4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "changeable": 0,
-      "filterable": 1,
-      "jar": "https://9071.kstore.vip/jar/4k.jar",
-      "ext": {
-        "site_urls": [
-          "https://mihdr.top",
-          "http://www.xhww.net",
-          "http://xhww.net",
-          "https://xiaomiai.site"
-        ],
-        "url_key": "Duopan",
-        "threadinfo": {
-          "chunksize": 250,
-          "threads": 10
-     }
-      }
-    },
-
+       
         {
       "key": "糯米弹幕",
       "name": "味精┃专线1",
