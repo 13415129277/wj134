@@ -30,7 +30,10 @@
     
 
 
-
+{
+      "url": "https://mpanso.me/DEMO.json",
+      "name": "味精:小米专线"
+    },
    {
       "url": "https://d.kstore.dev/download/9246/%E4%BB%A5%E5%89%8D%E7%9A%84%E7%9B%92%E5%AD%90.json",
       "name": "味精：紫气大佬专线"
@@ -276,10 +279,7 @@
       "name": "味精:摸鱼儿专线"
     },
 
-    {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
-      "name": "味精:小米专线"
-    },
+    
 
     {
       "url": "https://fmbox.cc",
