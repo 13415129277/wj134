@@ -62,6 +62,15 @@
     },
 
 
+
+
+{
+      "url": "http://127.0.0.1:9978/tvboxqq/欧歌/api.json",
+      "name": "味精：欧歌专线"
+    },
+
+
+
 {
       "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json",
       "name": "味精：流芸专线"
