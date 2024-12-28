@@ -14,11 +14,12 @@
       "order_num": 0,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/6b29198cfdb740a9be3d210ee958cc44.jpg"
     },
-     {
+      {
       "key": "csp_XYQHiker_河马短剧",
       "name": "🌈快手┃短剧",
       "type": 3,
       "api": "csp_XYQHiker",
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
