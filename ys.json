@@ -50,7 +50,15 @@
       "changeable": 1
     },
     
-    
+       {
+      "key": "客星",
+      "name": "客星┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "playerType": 1,
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+    },
  {
       "key": "ky1080",
       "name": "⛅酷云┃多线",
