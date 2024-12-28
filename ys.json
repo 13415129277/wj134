@@ -126,6 +126,10 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
+         "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
     },
     {
@@ -137,6 +141,10 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
+         "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
     },
       {
@@ -148,6 +156,10 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
+           "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
     },
     {
@@ -158,6 +170,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+         "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
     },
 {"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},
@@ -174,15 +190,30 @@
 {"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"}},
 
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
 "searchable":0,"quickSearch":0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili",  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili",  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili",  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili",  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}},
 
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
