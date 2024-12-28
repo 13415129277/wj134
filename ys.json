@@ -2,7 +2,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-{"key":"豆豆豆","name":"公众号【味精影院】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆豆","name":"关注公众号【味精影院】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
