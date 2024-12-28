@@ -293,13 +293,14 @@
 ],
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
    "parses": [
-    {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
+   {
       "name": "味精解析1",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+ 
+    {
+      "name": "味精解析2",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -308,11 +309,7 @@
         }
       }
     },
-    {
-      "name": "味精解析2",
-      "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
-    },
+    
     {
       "name": "味精解析3",
       "type": 1,
