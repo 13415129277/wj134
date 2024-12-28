@@ -5,7 +5,7 @@
 {"key":"豆豆豆","name":"防失联公众号【味精影院】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
    {
       "key": "duanjuxy",
-      "name": "🌈抖音┃短剧",
+      "name": "🌈秒播┃短剧1",
       "type": 3,
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -16,7 +16,7 @@
     },
       {
       "key": "csp_XYQHiker_河马短剧",
-      "name": "🌈快手┃短剧",
+      "name": "🌈秒播┃短剧2",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
