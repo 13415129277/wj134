@@ -10,6 +10,13 @@
       "api": "http://47.99.102.252/js/openkuyun.js",
       "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f"
     },
+     {
+      "key": "JINPAI",
+      "name": "🥇金牌┃秒播",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://yyrj.fun/js/jp.js"
+    },
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
