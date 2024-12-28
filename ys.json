@@ -38,7 +38,63 @@
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-
+ {
+      "key": "lltv_360DH",
+      "name": "360🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yyrj.fun/bb/donghua/360donghua.js"
+    },
+    {
+      "key": "lltv_MGDH",
+      "name": "芒果🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yyrj.fun/bb/donghua/mangguo.js"
+    },
+    {
+      "key": "lltv_QYDH",
+      "name": "奇艺🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
+    },
+    {
+      "key": "lltv_SGDH",
+      "name": "搜狗🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yyrj.fun/bb/donghua/sougou.js"
+    },
+    {
+      "key": "lltv_TXDH",
+      "name": "腾讯🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yyrj.fun/bb/donghua/tengxun.js"
+    },
+    {
+      "key": "lltv_YKDH",
+      "name": "优酷🎄动画",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://yyrj.fun/bb/donghua/youku.js"
+    },
 
 {"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0},
@@ -75,7 +131,7 @@
       "url": "Demo"
     },
     {
-      "name": "线路1",
+      "name": "味精解析1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -85,12 +141,12 @@
       }
     },
     {
-      "name": "盘古解析",
+      "name": "味精解析2",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "解析1",
+      "name": "味精解析3",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
@@ -119,7 +175,7 @@
       }
     },
     {
-      "name": "巧技二",
+      "name": "味精解析4",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
