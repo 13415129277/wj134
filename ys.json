@@ -117,7 +117,49 @@
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://yyrj.fun/bb/donghua/youku.js"
     },
-  
+    {
+      "key": "相声小品",
+      "name": "🅰相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+    },
+    {
+      "key": "健身",
+      "name": "🅱休闲┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
+    },
+      {
+      "key": "戏曲",
+      "name": "🅰味精┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+    },
+    {
+      "key": "梨园",
+      "name": "🅱梨园┃戏曲",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+    },
 {"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0},
 
