@@ -3,6 +3,17 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆豆","name":"防失联公众号【味精影院】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
+   {
+      "key": "duanjuxy",
+      "name": "🌈抖音┃短剧",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/6b29198cfdb740a9be3d210ee958cc44.jpg"
+    },
  {
       "key": "ky1080",
       "name": "⛅酷云┃多线",
@@ -95,7 +106,7 @@
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://yyrj.fun/bb/donghua/youku.js"
     },
-
+  
 {"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0},
 
