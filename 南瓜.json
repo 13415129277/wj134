@@ -26,7 +26,14 @@
       "filterable": 1,
       "ext": ""
     },
-    
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃App",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
     {
       "key": "剧评",
       "name": "剧评┃App",
@@ -115,14 +122,7 @@
       "playerType": 1,
       "ext": "caHR0cDovLzExNC4xMDAuNDguNTI6MTgwMDg="
     },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
+    
     {
       "key": "柠檬",
       "name": "柠檬┃App",
