@@ -32,7 +32,20 @@
       "api": "csp_XBPQ",
       "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
     },
-
+  {
+      "key": "浪酷弹幕",
+      "name": "马里奥┃独家③",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
 
 
 
