@@ -46,8 +46,18 @@
       "playerType": "1",
       "ext": "http://api2.rinhome.com"
     },
+   
     {"key":"天天","name":"马里奥┃独家⑤","type":3,"api":"csp_AppTT","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"移动云盘","name":"马里奥┃云盘","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
+ {
+      "key": "csp_Nmys",
+      "name": "马里奥┃仅搜索",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734962677433/wex.txt;md5;14e5e75c55cd716d7be3b5006d2df13a",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {"key":"移动云盘","name":"马里奥┃云盘","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
     {
       "key": "push_agent",
       "name": "远程推送",
