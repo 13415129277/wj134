@@ -28,7 +28,21 @@
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
-  
+        {
+      "key": "csp_Xlys",
+      "name": "马里奥┃独家④",
+      "api": "csp_Xlys",
+      "type": 3,
+      "playerType": 2
+    },
+      {
+      "key": "荐片",
+      "name": "马里奥┃独家⑤",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com"
+    },
 
     {
       "key": "push_agent",
