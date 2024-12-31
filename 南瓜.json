@@ -7,8 +7,16 @@
   "sites": [
 
     
-   {"key":"星星影视","name":"味精｜主力","type":3,"api":"csp_AppZX","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaLK5slLrVkVKpWWFo0f0XrIG4I/KFx5RJf8ee99ij0p6UXFSzynUUoQn+CMLXQSrHrks8dKtjc6OXESxcMCKZWCfIZLnBIHXbQkKgwbMN1ancbdBF0wmVANCCrQQTm2Nd1Q68RP63nGTicCesKtoaOomHl8T0c2P6T1te5WMsJkNyDa8tsgx5q0uDyR6+QqFAx0l92nhDqQ8"},
-{"key":"米米影视","name":"味精｜备用","type":3,"api":"csp_AppZX","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="},
+     {
+      "key": "皮皮虾",
+      "name": "马里奥┃皮皮虾",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },
     {
       "key": "push_agent",
       "name": "远程推送",
