@@ -9,7 +9,7 @@
     
      {
       "key": "皮皮虾",
-      "name": "马里奥┃皮皮虾",
+      "name": "马里奥┃独家①",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -17,6 +17,7 @@
       "filterable": 1,
       "ext": "http://38.55.250.149:1314/api.php/app/"
     },
+    
     {
       "key": "push_agent",
       "name": "远程推送",
@@ -39,63 +40,16 @@
       "type": 2,
       "url": "Sequence"
     },
+   
     {
-      "name": "巧技",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "name": "皮皮虾",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "巧技二",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "PPXLG",
+          "皮皮虾4K"
+        ]
       }
     }
   ],
