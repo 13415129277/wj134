@@ -20,56 +20,18 @@
     },
 
     
-    {
-      "key": "流光影视",
-      "name": "马里奥┃独家②",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
-    },
-
-    
-  {
-      "key": "浪酷弹幕",
-      "name": "马里奥┃独家③",
-      "type": 3,
-      "api": "csp_TianTian",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
+  
 
 
-       {
-      "key": "天天",
-      "name": "天天┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
-    },
     {
       "key": "热播",
-      "name": "热播┃App",
+      "name": "马里奥┃独家②",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
-    {
-      "key": "追剧",
-      "name": "追剧┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "daHR0cDovL3YubGt1eXMuY24="
-    },
+   
 
 
     
