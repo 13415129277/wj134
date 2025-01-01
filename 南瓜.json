@@ -25,13 +25,8 @@
 
 {"key":"荐片","name":"💡荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-
-
-{"key":"洽洽影视","name":"💡洽洽","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"金牌影视","name":"💡金牌","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"真心影视","name":"💡真心","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"机器人","name":"💡机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"1905","name":"💡老电影","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
+
 
 {"key":"星星影视","name":"💡星星｜影视","type":3,"api":"csp_AppZX","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaLK5slLrVkVKpWWFo0f0XrIG4I/KFx5RJf8ee99ij0p6UXFSzynUUoQn+CMLXQSrHrks8dKtjc6OXESxcMCKZWCfIZLnBIHXbQkKgwbMN1ancbdBF0wmVANCCrQQTm2Nd1Q68RP63nGTicCesKtoaOomHl8T0c2P6T1te5WMsJkNyDa8tsgx5q0uDyR6+QqFAx0l92nhDqQ8"},
 {"key":"米米影视","name":"💡米米｜影视","type":3,"api":"csp_AppZX","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="},
@@ -71,7 +66,6 @@
 {"key":"星芽短剧","name":"🐞星芽｜短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 
 
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 
@@ -80,11 +74,11 @@
 "parses":
 [
 {"name":"-聚合-","type":3,"url":"Demo"},
-{"name":"欧歌解析","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"味精测试","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"-关注-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="},
-{"name":"-欧歌-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="},
+{"name":"-味精-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="},
 {"name":"-公众号-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="},
-{"name":"欧歌APP","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="},
+{"name":"味精影院","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="},
 {"name":"线路1","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name":"线路2","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
