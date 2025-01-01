@@ -16,15 +16,15 @@
 
 
 
-{"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"荐片","name":"💡荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 
 
-{"key":"骚火影视1","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"骚火影视1","name":"💡骚火","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"洽洽影视","name":"💡洽洽｜影视","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"真心影视","name":"💡真心｜影视","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"洽洽影视","name":"💡洽洽","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"金牌影视","name":"💡金牌","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"真心影视","name":"💡真心","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"机器人","name":"💡机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"1905","name":"💡老电影","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 
