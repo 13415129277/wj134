@@ -28,6 +28,22 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
+
+    {
+      "key": "荐片",
+      "name": "荐片┃App",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/yf1688/box/raw/master/json/jp.json",
+      "timeout": 25
+    },
+
+
+
  {
       "key": "木耳",
       "name": "🪴木耳┃秒播",
