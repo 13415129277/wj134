@@ -24,9 +24,12 @@
     },
 
 
+
+
+
            {
       "key": "客星",
-      "name": "客星┃影视",
+      "name": "客星┃App",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
