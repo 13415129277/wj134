@@ -29,17 +29,12 @@
 
 {
       "key": "qqys",
-      "name": "腾腾┃影视",
+      "name": "👿腾腾┃App",
       "type": 3,
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://yyrj.fun/js/tx.js"
     },
-        {
-      "key": "ky1080",
-      "name": "酷云┃影视",
-      "type": 3,
-      "api": "http://47.99.102.252/js/openkuyun.js"
-    },
+        
 {
 			"key": "荐片",
 			"name": "🍭荐片┃App",
