@@ -30,38 +30,7 @@
 
 
 
-{
-"key":"全网影视",
-"name":"💡全网┃App",
-"type":3,
-"api":"csp_Quanwk",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://www.91qkw.com"},
-    {
-			"key": "csp_良人",
-			"name": "👨良人┃影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_MiTuApp",
-			"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51"
-		},
 
-
-
-
-{
-      "key": "py_视觉",
-      "name": "💨视觉┃App",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://9071.kstore.vip/py/视觉.py"
-    },
 
     {
       "key": "农民影视",
