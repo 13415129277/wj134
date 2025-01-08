@@ -23,7 +23,13 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
-
+{
+      "key": "qqys",
+      "name": "腾腾┃影视",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://yyrj.fun/js/tx.js"
+    },
         {
       "key": "ky1080",
       "name": "酷云┃影视",
