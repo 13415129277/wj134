@@ -27,13 +27,7 @@
 
 
 
-    {
-      "key": "shijue",
-      "name": "视觉┃影视",
-      "type": 3,
-      "api": "http://150.158.112.123/公众号~玉玉软件库/sj.js",
-  "jar": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng",
-    },
+    
 
 
 
@@ -127,20 +121,7 @@
         
 
 
-    {
-      "key": "jpyy",
-      "name": "金牌┃影视",
-      "type": 3,
-      "api": "https://yyrj.fun/js/op.js",
-      "ext": "https://yyrj.fun/js/jpyy.js"
-    },
-    {
-      "key": "JINPAI",
-      "name": "金牌┃影视",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "ext": "https://yyrj.fun/js/jp.js"
-    },
+    
 
 
 
