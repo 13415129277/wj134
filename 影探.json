@@ -25,6 +25,8 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
+
+
     {
       "key": "shijue",
       "name": "视觉┃影视",
@@ -33,6 +35,9 @@
   "jar": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng",
     },
 
+
+
+
     {
       "key": "gzys3",
       "name": "瓜子┃影视",
@@ -40,6 +45,9 @@
       "api": "csp_Guazi",
   "jsr": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng"
     },
+
+
+
 
 {
 			"key": "csp_Xlys",
@@ -50,6 +58,9 @@
 			"type": 3,
 			"playerType": 2
 		},
+
+
+
 
 
     {
