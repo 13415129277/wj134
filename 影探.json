@@ -27,8 +27,6 @@
 
 
 
-
-
 {
       "key": "csp_appys_影盒",
       "name": "影探┃测试",
@@ -39,6 +37,9 @@
       "filterable": 1,
       "ext": "http://cms-vip.lyyytv.cn/api.php/app/"
     },
+
+
+
 
 
     {
@@ -52,6 +53,9 @@
       "filterable": 1
     },
 
+
+
+
     {
       "key": "灼华",
       "name": "🧨灼华┃App",
@@ -61,6 +65,9 @@
       "playerType": 1,
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
+
+
+
            {
       "key": "客星",
       "name": "客星┃App",
@@ -70,6 +77,9 @@
       "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
+
+
+
 
     {
       "key": "csp_XBPQ_fxzcjy",
@@ -82,6 +92,8 @@
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/分享caiji.json"
     },
+
+
 
 
 {
