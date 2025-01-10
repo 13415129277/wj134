@@ -25,7 +25,21 @@
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
 
+    {
+      "key": "shijue",
+      "name": "视觉┃影视",
+      "type": 3,
+      "api": "http://150.158.112.123/公众号~玉玉软件库/sj.js",
+  "jar": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng",
+    },
 
+    {
+      "key": "gzys3",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Guazi",
+  "jsr": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng"
+    },
 
 {
 			"key": "csp_Xlys",
@@ -102,7 +116,20 @@
         
 
 
-
+    {
+      "key": "jpyy",
+      "name": "金牌┃影视",
+      "type": 3,
+      "api": "https://yyrj.fun/js/op.js",
+      "ext": "https://yyrj.fun/js/jpyy.js"
+    },
+    {
+      "key": "JINPAI",
+      "name": "金牌┃影视",
+      "type": 3,
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://yyrj.fun/js/jp.js"
+    },
 
 
 
