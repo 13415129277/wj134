@@ -65,7 +65,17 @@
 
 
        
-
+      {
+      "key": "文采",
+      "name": "🌞金牌┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+"jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 
 
