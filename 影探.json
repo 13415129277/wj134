@@ -38,7 +38,7 @@
 
     {
       "key": "gzys3",
-      "name": "瓜子┃影视",
+      "name": "🚀瓜子┃影视",
       "type": 3,
       "api": "csp_Guazi"
     },
@@ -51,7 +51,7 @@
 
 {
       "key": "shijue",
-      "name": "视觉┃影视",
+      "name": "🎯视觉┃App",
       "type": 3,
       "api": "http://150.158.112.123/公众号~玉玉软件库/sj.js",
  "jar": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng"
@@ -64,7 +64,8 @@
 
 
 
-
+       {"key":"fxz欢视","name":"🔰分享欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar","ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+       {"key":"木星","name":"💖分享木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM", "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
 
 
 
@@ -73,7 +74,7 @@
 
 {
       "key": "天天",
-       "name": "天天┃影视",
+       "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -165,7 +166,7 @@
 
 {
 			"key": "csp_JPYY",
-			"name": "🚗文采┃1080P",
+			"name": "🚗文采┃App",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 1,
@@ -186,7 +187,7 @@
     
 {
 			"key": "csp_麻花",
-			"name": "🥙麻花┃1080P",
+			"name": "🥙麻花┃App",
 			"type": 3,
 			"quickSearch": 0,
 			"api": "csp_MiTuApp",
@@ -415,15 +416,7 @@
       "playerType": 1,
       "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
     },
-    {
-      "key": "木叶",
-      "name": "木叶┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-"jar": "http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48",
-      "playerType": 2,
-      "ext": "saHR0cDovLzEyNC4yMjMuMTEuMjU6MjQxMDJ8NnZheGpuNHZia3Joc3pwOHw2dmF4am40dmJrcmhzenA4fDEwMA=="
-    },
+    
    
        {
             "key": "相声小品",
