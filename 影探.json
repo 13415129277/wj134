@@ -6,7 +6,7 @@
     {
       "name": "味精直播",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     }
