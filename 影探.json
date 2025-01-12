@@ -6,7 +6,7 @@
     {
       "name": "味精直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "url": "tv",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     }
@@ -15,18 +15,16 @@
 
 
 
-	  
-    {
-      "key": "豆瓣",
-      "name": "味精┃推荐",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
-    },
+	 {
+          "key": "豆瓣",
+           "name": "味精┃热播", 
+           "type": 3, 
+           "api": "csp_Douban", 
+           "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar", 
+           "searchable": 1,
+            "quickSearch": 0, 
+           "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E8%B1%86%E7%93%A3%E5%85%AC%E5%91%8A.json" 
+     },
 
     {
       "key": "gzys3",
