@@ -94,6 +94,9 @@
 {"key":"柠檬","name":"🍊柠檬┃App","type":3,"api":"csp_Nmvod","jar":"http://cdn.qiaoji8.com/fix250101.jar;md5;1509ee4d0f52794381dd0bdbc114fa7c","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 
 
+{"key":"移动云盘","name":"🎇云盘┃App","type":3,"api":"csp_YDjisu","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
+"searchable":1,"changeable":1},
+
 {"key":"厂长","name":"📔厂长┃App","type":3,"api":"csp_NewCz","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 {
       "key": "天天",
@@ -344,9 +347,6 @@
 
 
 
-
-{"key":"移动云盘","name":"🎇云盘┃App","type":3,"api":"csp_YDjisu","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
-"searchable":1,"changeable":1},
 
 
 
