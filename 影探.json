@@ -76,6 +76,16 @@
 
 
 
+ {
+      "key": "玉米",
+      "name": "🌽玉米┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://cdn.qiaoji8.com/fix250111.jar;md5;a620c66c3632209f155d6963628008fd",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo4NTIzfDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
+    },
+
 
 
 {"key":"白白","name":"🐭白白┃App","type":3,"api":"csp_Sbaibai","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -100,7 +110,15 @@
     },
 
 
-
+{
+      "key": "木叶",
+      "name": "🎀木叶┃1080P",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,  
+      "jar": "http://cdn.qiaoji8.com/fix250111.jar;md5;a620c66c3632209f155d6963628008fd",
+      "ext": "saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="
+    },
 
 
 	 
