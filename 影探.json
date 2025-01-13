@@ -30,9 +30,22 @@
      },
 
 
+    {
+      "key": "荐片",
+      "name": "味精┃荐片",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "http://ttkx.cc:55/lib/drpy2.min.js",
+      "ext": "http://ttkx.cc:55/lib/js/jp.js"
+    },
+
+
 {
       "key": "WexpipixiaGuard",
-      "name": "💥皮皮虾┃4KK",
+      "name": "味精┃皮皮虾",
       "type": 3,
       "api": "csp_WexpipixiaGuard",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4",
@@ -42,7 +55,7 @@
 
    {
       "key": "可可",
-      "name": "👻味精┃测试",
+      "name": "味精┃可可",
       "type": 3,
       "api": "csp_Kekys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477",
@@ -58,7 +71,7 @@
 
              {
       "key": "csp_Ikanbot",
-      "name": "全网┃采集",
+      "name": "味精┃采集",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/cv.jar",
