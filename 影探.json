@@ -6,7 +6,7 @@
     {
       "name": "味精直播",
       "type": 0,
-      "url": "tv",
+      "url": "https://codeberg.org/xiaohuli/ZJ.4K/raw/branch/main/zb.png",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     }
