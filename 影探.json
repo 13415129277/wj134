@@ -31,11 +31,34 @@
 
 
     
+    {
+      "key": "木星",
+      "name": "🌞木星┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+    },
+
+
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+
 
 
 {
       "key": "WexpipixiaGuard",
-      "name": "味精┃皮皮虾",
+      "name": "🦂皮皮虾┃秒播",
       "type": 3,
       "api": "csp_WexpipixiaGuard",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4",
@@ -45,7 +68,7 @@
 
    {
       "key": "可可",
-      "name": "味精┃可可",
+      "name": "🉑可可┃多线",
       "type": 3,
       "api": "csp_Kekys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477",
@@ -61,7 +84,7 @@
 
              {
       "key": "csp_Ikanbot",
-      "name": "味精┃采集",
+      "name": "🔥味精┃采集",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/cv.jar",
