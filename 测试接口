@@ -6,7 +6,7 @@
 	  
     {
       "key": "豆瓣",
-      "name": "瓜子┃豆瓣",
+      "name": "味精┃豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -18,7 +18,7 @@
 
 		{
 			"key": "csp_Xlys",
-			"name": "🍤哔嘀┃1080P",
+			"name": "🔎独家┃专线①🔍",
 			"api": "csp_Xlys",
 			"searchable": 1,
 			"type": 3,
@@ -26,7 +26,7 @@
 		},
 		{
 			"key": "csp_Wwys",
-			"name": "👨农民┃1080P",
+			"name": "🔎独家┃专线②🔍",
 			"type": 3,
 			"playerType": 2,
 			"searchable": 1,
@@ -36,36 +36,18 @@
 		},
 		{
             "key": "csp_AppDrama",
-            "name": "👓视觉┃1080P",
+            "name": "🔎独家┃专线③🔍",
             "type": 3,
             "quickSearch": 0,
             "api": "csp_AppDrama",
             "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
         },
-        {
-            "key": "csp_AppDrama2",
-            "name": "🐯虎虎┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-        },
-		{
-			"key": "瓜子",
-			"name": "🍉瓜子┃1080P",
-			"type": 3,
-			"api": "csp_Gz360",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0
-		},
+
 		
 		
 		{
 			"key": "csp_MiTuApp",
-			"name": "🐰米兔┃1080P",
+			"name": "🔎独家┃专线④🔍",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
