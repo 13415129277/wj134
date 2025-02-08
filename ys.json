@@ -9,22 +9,12 @@
 
 {"key":"味精网盘","name":"☁云盘┃测试","type":3,"jar":"https://lz.qaiu.top/lz/isqWQ2hstv0d","api":"csp_YDjisu","searchable":1,"changeable":1},
 
-   {
-      "key": "duanjuxy",
-      "name": "🌈秒播┃短剧1",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/6b29198cfdb740a9be3d210ee958cc44.jpg"
-    },
+   
    
 
       {
       "key": "csp_XYQHiker_河马短剧",
-      "name": "🌈秒播┃短剧2",
+      "name": "🌈秒播┃爽剧",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
