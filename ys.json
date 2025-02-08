@@ -123,7 +123,24 @@
 
 
 
-
+    {
+      "key": "客星",
+      "name": "❄️客星┃多线",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+    },
+    {
+      "key": "风听影视",
+      "name": "🌀风听┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_Shark",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
 
 
 
