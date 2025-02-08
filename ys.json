@@ -458,6 +458,23 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+{
+      "key": "310js",
+      "name": "⚽┃310看球",
+      "type": 3,
+      "api": "https://kaitv.imkay.us.kg/ikk99/KAYVID/main/lib/drpy2.min.txt?file=drpy2.min.js",
+      "ext": "https://kaitv.imkay.us.kg/ikk99/KAYVID/main/lib/310.txt",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 10
+    },
+
+
     {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
