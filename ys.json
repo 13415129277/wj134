@@ -30,6 +30,9 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/河马短剧.json"
     },
    
+
+
+
  {
 			"key": "csp_AppDrama2",
 			"name": "🐯虎虎┃多线",
@@ -39,6 +42,10 @@
 "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
 			"ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
 		},
+
+
+
+
 {
 			"key": "瓜子",
 			"name": "🍉瓜子┃秒播",
@@ -64,6 +71,10 @@
 			"ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
 		},
 
+
+
+
+
      {
       "key": "賤賤",
       "name": "📓賤片┃p2p",
@@ -73,6 +84,11 @@
       "searchable": 1,
       "changeable": 1
     },
+
+
+
+
+
        {
       "key": "木头",
       "name": "👑馒头┃秒播",
@@ -82,6 +98,10 @@
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
+
+
+
+
        {
       "key": "客星",
       "name": "🏆客星┃秒播",
@@ -103,6 +123,10 @@
       "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://yyrj.fun/js/jp.js"
     },
+
+
+
+
 
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
      {
