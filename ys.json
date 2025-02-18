@@ -230,77 +230,11 @@
 
 
 
-    {
-      "key": "大师兄",
-      "name": "🐵大师兄┃多线",
-      "type": 3,
-      "api": "csp_XBPQ",
-  "jar": "https://lz.qaiu.top/d/lz/ifbEX2mg45je",
-      "ext": {
-        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
 
 
 
-{
-      "key": "lltv_360DH",
-      "name": "360🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/360donghua.js"
-    },
-    {
-      "key": "lltv_MGDH",
-      "name": "芒果🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/mangguo.js"
-    },
-    {
-      "key": "lltv_QYDH",
-      "name": "奇艺🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
-    },
-    {
-      "key": "lltv_SGDH",
-      "name": "搜狗🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/sougou.js"
-    },
-    {
-      "key": "lltv_TXDH",
-      "name": "腾讯🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/tengxun.js"
-    },
-    {
-      "key": "lltv_YKDH",
-      "name": "优酷🎄动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "ext": "https://yyrj.fun/bb/donghua/youku.js"
-    },
+
+
     {
       "key": "相声小品",
       "name": "🅰相声┃小品",
