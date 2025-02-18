@@ -23,10 +23,16 @@
 
 
 
-{"key":"瓜子","name":"🎃老兵┃自营","type":3,"api":"csp_Gz360","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","searchable":1,"quickSearch":1,"filterable":1},
+
+
+{
+"key":"瓜子","name":"🎃老兵┃自营","type":3,"api":"csp_Gz360","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","searchable":1,"quickSearch":1,"filterable":1
+},
 
    
  
+
+
 
 
    
@@ -76,6 +82,9 @@
 
 
 
+
+
+
 {
       "key": "摸鱼瓜子",
       "name": "❤️瓜子┃秒播",
@@ -88,10 +97,18 @@
     },
 
  
+
+
 {"key":"巧技","name":"💡巧巧┃多线","type":3,"api":"csp_qiao2","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203",
 "playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/1739704196981ee4d1db22ed5d0fe67dc73c5402d65321739704163.jpg"},
 
+
+
+
 {"key":"壹伴","name":"🐉壹伴┃多线","type":3,"api":"csp_Xdai","jar":"http://tv.laohu.cool/lh250119.jar;md5;b1735a02c05a81130905711c9aecc581","playerType":2,"ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg="},
+
+
+
 
     {
       "key": "骚火影视1",
@@ -103,6 +120,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
+
+
 
 
 
@@ -134,20 +154,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
       "key": "客星",
       "name": "❄️客星┃多线",
@@ -159,6 +165,9 @@
     },
 
 
+
+
+
     {
       "key": "风听影视",
       "name": "🌀风听┃多线",
@@ -168,6 +177,10 @@
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
+
+
+
+
 
 
 
@@ -208,12 +221,22 @@
 
 
 
+
+
+
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 
 
 
 
+
+
+
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+
+
+
+
  {
       "key": "暴風",
       "name": "🐲暴风┃网站",
@@ -224,13 +247,11 @@
       "changeable": 1
     },
 
+
+
+
 {"key":"极速资源","name":"🍄极速┃网站","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-
-
-
-
-
 
 
 
