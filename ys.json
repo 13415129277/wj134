@@ -31,14 +31,36 @@
 "key":"瓜子","name":"🎃老兵┃自营","type":3,"api":"csp_Gz360","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","searchable":1,"quickSearch":1,"filterable":1
 },
 
+{ 			"key": "hipy_js_eytgz4k", 			"name": "瓜子┃短剧", 			"type": 3, 			"api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子影视.js" 		},		
 
 
 
-
-
+{
+            "key": "旺仔",
+            "name": "🎯旺仔┃秒播",
+            "type": 3,
+            "api":"csp_XBPQ",
+            "jar":"https://gitee.com/hu-congrong/lxbsc/raw/main/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"https://gitee.com/hu-congrong/lxbsc/raw/main/旺仔短剧.json"
+                    },        
  
 
-
+{
+            "key": "a567影院",
+            "name": "67┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hu-congrong/lxbsc/raw/main/xyqxbpq.jar",
+          
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":
+{   "分类url": "https://www.1234y.cc/vodtype/{cateId}-{catePg}.html",
+    "分类": "电影$dianying#连续剧$lianxuju#综艺$综艺#动漫$dongman#爱情片$aiqingpian#港台电视$gangtaiju#科幻片$kehuanpian"}  },         
 
       {
       "key": "csp_XYQHiker_河马短剧",
