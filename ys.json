@@ -6,7 +6,7 @@
 
     {
       "key": "豆瓣",
-      "name": "防失联公众号【味精影院】",
+      "name": "正在优化线路中……",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -35,32 +35,10 @@
 
 
 
-{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys",    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-
-
-
-
-
-   {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
  
 
-{"key":"星河","name":"🎄星河┃App","type":3,"api":"csp_Muou","jar":"http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8","playerType":2,"ext":"caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="},
-{"key":"23ys","name":"🎀二三┃App","type":3,"api":"csp_Muou","jar":"http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
-{"key":"主角","name":"✨主角┃App","type":3,"api":"csp_Muou","jar":"http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8","playerType":2,"ext":"caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"},
 
-
-   
 
       {
       "key": "csp_XYQHiker_河马短剧",
@@ -124,130 +102,13 @@
  
 
 
-{"key":"巧技","name":"💡巧巧┃多线","type":3,"api":"csp_qiao2","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203",
-"playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/1739704196981ee4d1db22ed5d0fe67dc73c5402d65321739704163.jpg"},
-
-
-
-
-{"key":"壹伴","name":"🐉壹伴┃多线","type":3,"api":"csp_Xdai","jar":"http://tv.laohu.cool/lh250119.jar;md5;b1735a02c05a81130905711c9aecc581","playerType":2,"ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg="},
-
-
-
-
-    {
-      "key": "骚火影视1",
-      "name": "🔥火火┃秒播",
-      "type": 3,
-      "api": "csp_SaoHuo",
-  "jar": "https://lz.qaiu.top/d/lz/ifbEX2mg45je",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-{"key":"永夜","name":"🎄永夜┃多线","type":3,"api":"csp_Muou","jar":"http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8","playerType":2,"ext":"caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"},
-
-{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
-
-
-
-
- 
-        
 
 
 
 
 
 
-
-
-
-
-
-    {
-      "key": "客星",
-      "name": "❄️客星┃多线",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
-    },
-
-
-
-
-
-    {
-      "key": "风听影视",
-      "name": "🌀风听┃多线",
-      "type": 3,
-      "api": "csp_Shark",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-
-
-
-
-
-
-
-       {
-      "key": "木头",
-      "name": "👑馒头┃秒播",
-      "type": 3,
-      "api": "csp_Shark",
-      "jar": "http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
-      "playerType": 1,
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-
-
-
-
-
-
-     
    
-   
- 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-
-
-
-
-
-
-
-{"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
-
-
-
-
-
-
-
-{"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-
-
 
 
  {
