@@ -5,9 +5,9 @@
     "appico": " https://file.yecao.net/yc/3/icon/2025/04/02/1907362009822392320.png?x-image-process=style/style-b5b2",
     "downurl": " http://cdnmarket.modfang.com/package/op/20250510/20C713B3379745A499C7DC1E4DDD13BD.apk",
     "apptitle": "随心看",
-    "banben": "2.0"
+    "banben": "8.7"
   },
-  "3": {
+  "2": {
     "appid": "118",
     "packname": "com.jhyy.tv",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338302667e9e9f222763.png",
@@ -17,7 +17,7 @@
   },
  
   
-  "6": {
+  "3": {
     "appid": "118",
     "packname": "com.cxyy.tv",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338376167e9ecd14fe64.png",
@@ -25,7 +25,7 @@
     "apptitle": "创新影院",
     "banben": "1.1"
   },
-  "7": {
+  "4": {
     "appid": "118",
     "packname": "com.mygithub0.tvbox0.osdX.TV9",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338401967e9edd3d2465.png",
@@ -34,7 +34,7 @@
     "banben": "5.0.28.1.TV9"
   },
  
-  "9": {
+  "5": {
     "appid": "118",
     "packname": "com.tv.qx",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338431867e9eefeb2b19.png",
@@ -42,7 +42,7 @@
     "apptitle": "千寻",
     "banben": "1.1.0"
   },
-  "10": {
+  "6": {
     "appid": "118",
     "packname": "com.dangbei.oslive",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338443567e9ef73d17d5.png",
@@ -50,7 +50,7 @@
     "apptitle": "有线电视",
     "banben": "1.0.9-live-outgoing"
   },
-  "11": {
+  "7": {
     "appid": "118",
     "packname": "com.jerry.live.pro",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338471267e9f088dbc86.png",
@@ -60,7 +60,7 @@
   },
 
  
-  "16": {
+  "8": {
     "appid": "118",
     "packname": "fun.yecao.helper",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338938167ea02c598867.png",
@@ -68,7 +68,7 @@
     "apptitle": "野草助手",
     "banben": "2.0.7"
   },
-  "17": {
+  "9": {
     "appid": "118",
     "packname": "tv.huan.tvhelper",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338970367ea0407a5c2b.png",
@@ -76,7 +76,7 @@
     "apptitle": "欢视助手",
     "banben": "1.0.0"
   },
-  "18": {
+  "10": {
     "appid": "118",
     "packname": "tv.fun.master",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338996367ea050b27625.png",
@@ -84,7 +84,7 @@
     "apptitle": "优化大师",
     "banben": "3.0.1.0"
   },
-  "19": {
+  "11": {
     "appid": "118",
     "packname": "me.thomastv.rebootupdate",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174339012767ea05af63967.png",
@@ -92,7 +92,7 @@
     "apptitle": "外置系统启动器",
     "banben": "1.1"
   },
-  "21": {
+  "12": {
     "appid": "118",
     "packname": "com.hpplay.happyplay.aw.new",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174339052867ea074031ecd.png",
