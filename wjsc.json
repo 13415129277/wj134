@@ -1,4 +1,5 @@
 {
+
   "1": {
     "appid": "118",
     "packname": "com.sxk.app",
@@ -8,6 +9,14 @@
     "banben": "8.7"
   },
   "2": {
+    "appid": "117",
+    "packname": "com.sytvpro.tv",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338281267e9e91c2e9e8.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/81F8D0E6FAEF4F0C9EC3C1E3E4B0635B.apk",
+    "apptitle": "阿森领先影视",
+    "banben": "6.0"
+  },
+  "3": {
     "appid": "118",
     "packname": "com.jhyy.tv",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338302667e9e9f222763.png",
@@ -15,9 +24,23 @@
     "apptitle": "江海影院",
     "banben": "2.0"
   },
- 
-  
-  "3": {
+  "4": {
+    "appid": "118",
+    "packname": "com.centent.pipi",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338343567e9eb8b1976e.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/79E5D9B3ED054BC9B70B24FC66F08512.apk",
+    "apptitle": "皮皮影视",
+    "banben": "8.6"
+  },
+  "5": {
+    "appid": "118",
+    "packname": "com.fongmi.android.xt",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338362167e9ec452fbae.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/7FDE4E9FEBA645F195C735BB4A782B7B.apk",
+    "apptitle": "繁华影视通用py",
+    "banben": "2.1.0"
+  },
+  "6": {
     "appid": "118",
     "packname": "com.cxyy.tv",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338376167e9ecd14fe64.png",
@@ -25,7 +48,7 @@
     "apptitle": "创新影院",
     "banben": "1.1"
   },
-  "4": {
+  "7": {
     "appid": "118",
     "packname": "com.mygithub0.tvbox0.osdX.TV9",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338401967e9edd3d2465.png",
@@ -33,8 +56,15 @@
     "apptitle": "影视仓TV9",
     "banben": "5.0.28.1.TV9"
   },
- 
-  "5": {
+  "8": {
+    "appid": "118",
+    "packname": "com.aszb.yyds",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338418867e9ee7cead32.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/F6E0B56EC0554D67B29F3E470B3BBBA6.apk",
+    "apptitle": "阿森直播",
+    "banben": "快手:阿森机顶盒刷机维护"
+  },
+  "9": {
     "appid": "118",
     "packname": "com.tv.qx",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338431867e9eefeb2b19.png",
@@ -42,7 +72,7 @@
     "apptitle": "千寻",
     "banben": "1.1.0"
   },
-  "6": {
+  "10": {
     "appid": "118",
     "packname": "com.dangbei.oslive",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338443567e9ef73d17d5.png",
@@ -50,7 +80,7 @@
     "apptitle": "有线电视",
     "banben": "1.0.9-live-outgoing"
   },
-  "7": {
+  "11": {
     "appid": "118",
     "packname": "com.jerry.live.pro",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338471267e9f088dbc86.png",
@@ -58,9 +88,39 @@
     "apptitle": "电视直播pro",
     "banben": "2.6.15"
   },
-
- 
-  "8": {
+  "12": {
+    "appid": "118",
+    "packname": "com.lekanjia.zhuomian",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338802567e9fd796b4e0.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/0C77E894B7ED4B939A898EB3B235D71A.apk",
+    "apptitle": "阿森桌面带后台",
+    "banben": "1.0.56"
+  },
+  "13": {
+    "appid": "118",
+    "packname": "com.aszm.launcher",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338864767e9ffe7b6eea.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/1E2C32EE324641079A9BBA7E701DD382.apk",
+    "apptitle": "阿森桌面无边框",
+    "banben": "无边框版本"
+  },
+  "14": {
+    "appid": "118",
+    "packname": "com.aszm.launcher",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338890467ea00e854df4.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/6B694F6CBF84452E90B70DEFEC8779A0.apk",
+    "apptitle": "阿森桌面有边框",
+    "banben": "1.0"
+  },
+  "15": {
+    "appid": "118",
+    "packname": "com.yunpan.appmanage",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174338918167ea01fdd7c71.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/A9F57BA367A641BDA174990CE9E16488.apk",
+    "apptitle": "阿森应用管家",
+    "banben": "1.5.0"
+  },
+  "16": {
     "appid": "118",
     "packname": "fun.yecao.helper",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338938167ea02c598867.png",
@@ -68,15 +128,15 @@
     "apptitle": "野草助手",
     "banben": "2.0.7"
   },
-  "9": {
+  "17": {
     "appid": "118",
     "packname": "tv.huan.tvhelper",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338970367ea0407a5c2b.png",
     "downurl": " http://cdnmarket.modfang.com/package/op/20250331/45D675C4CDB741BFBF3930FA02414D2B.apk",
-    "apptitle": "欢视助手",
+    "apptitle": "环视助手",
     "banben": "1.0.0"
   },
-  "10": {
+  "18": {
     "appid": "118",
     "packname": "tv.fun.master",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174338996367ea050b27625.png",
@@ -84,7 +144,7 @@
     "apptitle": "优化大师",
     "banben": "3.0.1.0"
   },
-  "11": {
+  "19": {
     "appid": "118",
     "packname": "me.thomastv.rebootupdate",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174339012767ea05af63967.png",
@@ -92,7 +152,15 @@
     "apptitle": "外置系统启动器",
     "banben": "1.1"
   },
-  "12": {
+  "20": {
+    "appid": "118",
+    "packname": "com.iflytek.xiri",
+    "appico": " http://103.40.13.88:32621/upload/images/20250331/174339029667ea065873d09.png",
+    "downurl": " http://cdnmarket.modfang.com/package/op/20250331/F31A22F671B14682919D09AFEFB7FAD5.apk",
+    "apptitle": "AI语音助手免费版",
+    "banben": "99.0.1.100000008"
+  },
+  "21": {
     "appid": "118",
     "packname": "com.hpplay.happyplay.aw.new",
     "appico": " http://103.40.13.88:32621/upload/images/20250331/174339052867ea074031ecd.png",
