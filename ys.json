@@ -27,14 +27,21 @@
 
 
 
-{
-"key":"瓜子","name":"🎃老兵┃自营","type":3,"api":"csp_Gz360","jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5e4064dcce6e6d8ecca0fde2d00c3203","searchable":1,"quickSearch":1,"filterable":1
-},
+
+    {
+      "key": "瓜子",
+      "name": "🎃老兵┃自营",
+      "type": 3,
+      "api": "csp_GuaziGuard",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YzzjOSMn.png;md5;db2132e631faa708621652a32f2894b9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
 
 
-
-
-
+{"key":"绝对影视","name":"🍉小兵┃自营","type":3,"api":"csp_FourK","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://www.4kvm.tv"},
 
 
 
