@@ -6,7 +6,7 @@
 
     {
       "key": "豆瓣",
-      "name": "正在优化线路……",
+      "name": "更新日期:2025.5.24",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -42,9 +42,29 @@
 
 
 {"key":"绝对影视","name":"🍉小兵┃自营","type":3,"api":"csp_FourK","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://www.4kvm.tv"},
+  {
+      "key": "HD",
+      "name": "秒播影视",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "https://lz.qaiu.top/d/le/4H5tqKjJPoG45xkge",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
 
-
-
+    {
+      "key": "金牌影视",
+      "name": "金牌｜影视",
+      "type": 3,
+      "api": "http://150.158.112.123/jar/py/jp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
 
 
 
