@@ -6,7 +6,7 @@
 
     {
       "key": "豆瓣",
-      "name": "更新日期:2025.5.24",
+      "name": "更新日期:2025.5.31",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
@@ -24,7 +24,7 @@
 
     {
       "key": "瓜子",
-      "name": "🎃老兵┃自营",
+      "name": "🎃味精┃自营",
       "type": 3,
       "api": "csp_GuaziGuard",
       "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YzzjOSMn.png;md5;db2132e631faa708621652a32f2894b9",
@@ -35,11 +35,21 @@
     },
 
 
-{"key":"绝对影视","name":"🍉小兵┃自营","type":3,"api":"csp_FourK","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://www.4kvm.tv"},
+{"key":"绝对影视","name":"🍉味精┃自营","type":3,"api":"csp_FourK","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://www.4kvm.tv"},
 
-{"key":"csp_Wwys","name":"🍉小兵┃备用","type":3,"quickSearch":1,"api":"csp_Wwys","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","ext":"https://www.wwgz.cn"},
 
-{ 			"key": "hipy_js_eytgz4k", 			"name": "🍉老兵┃短剧", 			"type": 3, 			"api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子影视.js" 		},		
+	 {
+      "key": "csp_appys_天堂",
+      "name": "🎦味精┃备用",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://ok.lfytv.cn/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cszz.lyyytv.cn/api.php/app/"
+    },
+{ 			"key": "hipy_js_eytgz4k", 			"name": "🍉味精┃短剧", 			"type": 3, 			"api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子影视.js" 		},		
 
 
 
@@ -48,8 +58,6 @@
 
 
 {"key":"移动","name":"😭云盘┃秒播","type":3,"api":"csp_YDjisu","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","searchable":1,"changeable":1},
-
-{"key":"尘落影视","name":"🔥尘落┃秒播","type":3,"api":"csp_Wetv","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 
 
 
