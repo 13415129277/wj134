@@ -15,9 +15,33 @@
       "filterable": 1,
       "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
     },
+	   {
+      "key": "csp_臻彩",
+      "name": "臻彩┃蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "hasTags": 1,
+      "hasPoster": 1,
+      "checkAlipan": 0,
+      "hasMeaningfulTitle": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
+    },
 {"key":"csp_baibai","name":"🎀味精┃白白","type":3,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f","quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
 
-
+ {
+      "key": "23",
+      "name": "🎁味精┃二三",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "ext": "7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"
+    },
+	
 	{"key":"趣看","name":"👑味精┃趣看","type":3,"quickSearch":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f","api":"csp_AppMuou","ext":{"url":"https://xjuzi.top","dataKey":"6a482a70b80eefc9","dataIv":"c995826a3e86fedd","jxurl":"https://www.ququkan.cc"}},
     {
       "key": "瓜子",
