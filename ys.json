@@ -1,20 +1,18 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+"spider":"http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 
-
-    {
+  {
       "key": "豆瓣",
-      "name": "2025.6.14测试",
+      "name": "味精测试",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://jihulab.com/ss3234741/sj/-/raw/875bfc142a5a3b202b2c232ab084af91076b0344/jar/xhpmd.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/Z13415129277/wjtv/raw/branch/main/%E5%85%AC%E5%91%8A.json"
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/OVdRCeKX.png;md5;4feb20fc360815ec4e78cc04b8a2fc33",
+      "api": "csp_DoubanGuard",
+      "searchable": 0,
+      "changeable": 1
     },
+  
 	   {
       "key": "csp_臻彩",
       "name": "🏆臻彩┃蓝光",
