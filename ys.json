@@ -4,7 +4,7 @@
 
   {
       "key": "豆瓣",
-      "name": "豆瓣┃热播",
+      "name": "味精┃热播",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/OVdRCeKX.png;md5;4feb20fc360815ec4e78cc04b8a2fc33",
       "api": "csp_DoubanGuard",
