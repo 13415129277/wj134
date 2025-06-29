@@ -44,29 +44,11 @@
     },
 
 
-              {
-			"key": "咖啡",
-			"name": "☕️味精┃咖啡",
-			"type": 3,
-		         "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749207154185/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1",
-			"quickSearch": 1,
-			"api": "csp_AppGet2",
-			"ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrmTkhIhx+6EMtUU6wfrlju+QX7XN4M9gXGJVIEMZgKYUCwM6KgbMpNxhhOH6nYmXoVYHv0cP5lhbLBYo7DCAkhAxkPrCjHFRgvXwPF5q5UdW7GGTBi7lkRvSimUHIl5hfbk1xA7FNs0GOoDzzqt9FLCO3PvhWaR6QVKFPLiVPct9x99q0yUl4JgaDFKPzQGL1BvGbCqIFyRrSAKGPiFlpiCuv2NjLFRQvx6umXk3/1A4EytR+ZHfPNuCguBgkOFqHg="
-		},
+              
 
 
 
-{
-			"key": "仓鼠",
-			"name": "🐀味精┃仓鼠",
-	                "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749207154185/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1",
-			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppGet2",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
-		},
 
-           
 
 
 
@@ -89,36 +71,10 @@
       "ext": "7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"
     },
 	
-	{"key":"趣看","name":"👑味精┃趣看","type":3,"quickSearch":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f","api":"csp_AppMuou","ext":{"url":"https://xjuzi.top","dataKey":"6a482a70b80eefc9","dataIv":"c995826a3e86fedd","jxurl":"https://www.ququkan.cc"}},
-    {
-      "key": "瓜子",
-      "name": "🎃味精┃瓜子",
-      "type": 3,
-      "api": "csp_GuaziGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YzzjOSMn.png;md5;db2132e631faa708621652a32f2894b9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
 
 
-	 {
-      "key": "csp_appys_天堂",
-      "name": "🎦味精┃备用",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://ok.lfytv.cn/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cszz.lyyytv.cn/api.php/app/"
-    },
 { 			"key": "hipy_js_eytgz4k", 			"name": "🍉味精┃短剧", 			"type": 3, 			"api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js", 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子影视.js" 		},		
 
-
-
-{"key":"热播影视","name":"🎀热播┃秒播","type":3,"api":"csp_AppRJ","searchable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad","quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 
 
 
